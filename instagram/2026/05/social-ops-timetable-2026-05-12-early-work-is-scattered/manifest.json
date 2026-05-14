@@ -3,7 +3,7 @@
   "template_key": "social-ops-insta-03",
   "html_template": "social-ops-insta-03.html",
   "renderer": "puppeteer",
-  "rendered_at": "2026-05-14T20:58:27.281Z",
+  "rendered_at": "2026-05-14T21:28:15.067Z",
   "source_draft": "campaigns/instagram/drafts/2026-05-12-early-work-is-scattered.md",
   "image_files": [
     "instagram/2026/05/social-ops-timetable-2026-05-12-early-work-is-scattered/social-ops-insta-03-slide-1-v1.jpg",
@@ -15,11 +15,11 @@
   ],
   "slide_count": 6,
   "checksum_sha256": [
-    "2513f3daf8410f3c4e6deba9dfdf1b6b6ac56da9c23cc2b5daf34c7c8b89499a",
-    "6c906f92280f60246527b92e4f1a7c17535937e8bc21e5aad7b3ab4a36f61275",
-    "7ff2c3d23f1dcac5e5a9d1cf08c3c8982e193bc003f5fb0fff19195ae04813b0",
-    "01bd3c898f3db1364312f8bf4a4b4c6e1053c163aa5bc34f28be8753e0b745be",
-    "080761b5e8d315812ed05fb6e0026f2dfcbbd561b983467600773ecfa7ce645a",
-    "48169bfd837c41c9c3e06d94d5b80b90b840c749bb85cb3e5a7501bbd47f0317"
+    "a197ee92c6d5e6b09454278384752cb28a24049c4b9716054c90d51d00320714",
+    "f1e86d3b56bc26c4bc138a3d0e029d66e4e7bd2b81079ed50515a370d1f2094c",
+    "78ca5acb2af4824653c41a5886a8cfbf02d68cae1fa027e5d06bfae78222139d",
+    "908b0385aee5fba1802d09403eb470a557e84e0276266a9a0418c7d059e46152",
+    "135799fbdb1a0e8c27f4578a2cbfff06be1164b45eea179c4e471754684c8915",
+    "fed7fda62c17338ddc209dc9aaadf7211bb1f509b40e8d95d193f71c0637b7d6"
   ]
 }
