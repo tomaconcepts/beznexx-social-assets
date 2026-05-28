@@ -3,8 +3,8 @@
   "template_key": "social-ops-insta-02",
   "html_template": "social-ops-insta-02.html",
   "renderer": "puppeteer",
-  "rendered_at": "2026-05-28T18:00:22.382Z",
-  "source_draft": "campaigns/instagram/drafts/2026-05-28-fn_traction_is_easy_to_claim_progress_is_harder_to_fake_2026_05_28-v1.md",
+  "rendered_at": "2026-05-28T18:17:23.166Z",
+  "source_draft": "campaigns/instagram/approved/2026-05-28-fn_traction_is_easy_to_claim_progress_is_harder_to_fake_2026_05_28-v1.md",
   "image_file": "instagram/2026/05/fn_traction_is_easy_to_claim_progress_is_harder_to_fake_2026_05_28/social-ops-insta-02-v1.jpg",
-  "checksum_sha256": "ae9181a66e5ac27ef657da5f2399f5336beebe4a736d67fee33f2dfbd83194b3"
+  "checksum_sha256": "9fa51ce9aa0187c80b50521ff87ddf9ef1553b03f9a3dedb01bb0630a4548fc3"
 }
