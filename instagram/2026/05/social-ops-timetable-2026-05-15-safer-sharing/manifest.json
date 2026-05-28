@@ -1,0 +1,10 @@
+{
+  "campaign_id": "social-ops-timetable-2026-05-15-safer-sharing",
+  "template_key": "social-ops-insta-02",
+  "html_template": "social-ops-insta-02.html",
+  "renderer": "puppeteer",
+  "rendered_at": "2026-05-28T13:48:59.067Z",
+  "source_draft": "campaigns/instagram/drafts/2026-05-15-safer-sharing.md",
+  "image_file": "instagram/2026/05/social-ops-timetable-2026-05-15-safer-sharing/social-ops-insta-02-v1.jpg",
+  "checksum_sha256": "1b534bc2d5821bc660e88c94a7a6c5104fc11977da3e4017a7c1b5b146a88c6d"
+}

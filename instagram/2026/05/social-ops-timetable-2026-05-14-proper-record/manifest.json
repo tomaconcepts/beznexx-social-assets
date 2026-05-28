@@ -1,0 +1,25 @@
+{
+  "campaign_id": "social-ops-timetable-2026-05-14-proper-record",
+  "template_key": "social-ops-insta-03",
+  "html_template": "social-ops-insta-03.html",
+  "renderer": "puppeteer",
+  "rendered_at": "2026-05-28T13:48:52.679Z",
+  "source_draft": "campaigns/instagram/drafts/2026-05-14-proper-record.md",
+  "image_files": [
+    "instagram/2026/05/social-ops-timetable-2026-05-14-proper-record/social-ops-insta-03-slide-1-v1.jpg",
+    "instagram/2026/05/social-ops-timetable-2026-05-14-proper-record/social-ops-insta-03-slide-2-v1.jpg",
+    "instagram/2026/05/social-ops-timetable-2026-05-14-proper-record/social-ops-insta-03-slide-3-v1.jpg",
+    "instagram/2026/05/social-ops-timetable-2026-05-14-proper-record/social-ops-insta-03-slide-4-v1.jpg",
+    "instagram/2026/05/social-ops-timetable-2026-05-14-proper-record/social-ops-insta-03-slide-5-v1.jpg",
+    "instagram/2026/05/social-ops-timetable-2026-05-14-proper-record/social-ops-insta-03-slide-6-v1.jpg"
+  ],
+  "slide_count": 6,
+  "checksum_sha256": [
+    "3351b6f9805e72a0deca8f1526ac07ddc21b6ed3e0c83ebaf904f345c97ade2b",
+    "a1ee3d1730dd5f6a090812ec3c76b126c87bed9f2859be81e2ea86da0699d136",
+    "9bc8745c0f5211b61dfb8e3b17283d54c710aa01b2f85ed7210b2a7931a8800a",
+    "e2fda1a69768bc411b39ae333df1d45dec9c657df4f11b9aa552eb13672d8f78",
+    "c36da3dc66dff72ab9a2e65f49ddbcefc2950ac9d5dc4217208d300be9c2f03e",
+    "3d444b62763e36a249bd2475538db0f5cde657426d622eacd4da6bc587b53c75"
+  ]
+}
