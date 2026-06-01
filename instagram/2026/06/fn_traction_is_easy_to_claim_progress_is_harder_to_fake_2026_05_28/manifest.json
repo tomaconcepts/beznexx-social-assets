@@ -1,0 +1,168 @@
+{
+  "campaign_id": "fn_traction_is_easy_to_claim_progress_is_harder_to_fake_2026_05_28",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-07-milestone-evidence.html",
+  "layer5_frame_id": "milestone_evidence",
+  "layer7_confidence": 0.78,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-06-01T15:45:25.407Z",
+  "source_draft": "campaigns/instagram/drafts/2026-06-01-fn_traction_is_easy_to_claim_progress_is_harder_to_fake_2026_05_28-v1.md",
+  "image_file": "instagram/2026/06/fn_traction_is_easy_to_claim_progress_is_harder_to_fake_2026_05_28/post-07-milestone-evidence-v1.jpg",
+  "checksum_sha256": "928f0341ada964a41ab7ecd764deea993af6120241be421ae6624aa6ea55c0ab",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_traction_is_easy_to_claim_progress_is_harder_to_fake_2026_05_28_v1_milestone_evidence",
+    "created_at": "2026-06-01T15:44:38.177Z",
+    "source": {
+      "craddle_export_id": "fn_traction_is_easy_to_claim_progress_is_harder_to_fake_2026_05_28",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "show_credible_progress"
+    },
+    "strategy": {
+      "funnel_stage": "authority",
+      "pain_code": "VIS / VAL",
+      "audience_cohort": "the_fragmented",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "milestone_evidence",
+      "post_id": "post-07-milestone-evidence",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-07-milestone-evidence.html",
+      "selection": {
+        "frame_id": "milestone_evidence",
+        "production_name": "Milestone Evidence / Proof",
+        "confidence": 0.78,
+        "score": 78,
+        "reasons": [
+          "campaign pillar matched show_credible_progress",
+          "feature area matched exchange",
+          "semantic match: evidence, traction theatre, harder to fake",
+          "derived signal match: evidence"
+        ],
+        "signals": [
+          "fragmentation",
+          "coherence",
+          "evidence",
+          "change_sequence"
+        ],
+        "rejected": [
+          {
+            "frame_id": "build_in_public",
+            "score": 58,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "semantic match: what changed"
+            ]
+          },
+          {
+            "frame_id": "exchange_signals",
+            "score": 50,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "semantic match: exchange"
+            ]
+          },
+          {
+            "frame_id": "field_note",
+            "score": 48,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "founder note baseline authority fit"
+            ]
+          },
+          {
+            "frame_id": "coherence_order",
+            "score": 21,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for exchange",
+              "derived signal match: coherence"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "body",
+          "proof_line",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "Traction is easy to claim. Progress is harder to fake",
+      "context": "Early traction is often presented as a claim without enough evidence behind it. This note reframes founder credibility around structured,...",
+      "context_secondary": "Traction is easy to claim.",
+      "cta": {
+        "policy": "soft",
+        "label": "Join the BezNexx alpha - beznexx.com"
+      },
+      "slots": {
+        "me-chip": "Evidence",
+        "me-diagram-label": "Claim &rarr; evidence",
+        "me-eyebrow": "Verified progress",
+        "me-headline": "Traction is easy<br>to claim<span class=\"dot\">.</span>",
+        "me-body": "A claim is not the same as evidence. Progress is stronger when others can inspect the record behind it.",
+        "me-conclusion": "A claim can start the conversation. BezNexx gives progress something to stand on.",
+        "me-cta": "Reply ALPHA · beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "lg",
+      "headline_lines": 3,
+      "text_fit": {
+        "quote": {
+          "font_tier": "lg",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "milestone-evidence",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/milestone-evidence.webp",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "trustrank_meter",
+      "label": "Proof"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "campaign_id": "fn_your_work_should_not_live_in_five_tools_and_one_memory_2026_05_29",
+  "template_key": "social-ops-insta-03",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-06-founder-chaos.html",
+  "layer5_frame_id": "founder_chaos",
+  "layer7_confidence": 0.86,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-06-01T15:45:22.914Z",
+  "source_draft": "campaigns/instagram/drafts/2026-06-01-fn_your_work_should_not_live_in_five_tools_and_one_memory_2026_05_29-v1.md",
+  "image_file": "instagram/2026/06/fn_your_work_should_not_live_in_five_tools_and_one_memory_2026_05_29/post-06-founder-chaos-v1.jpg",
+  "checksum_sha256": "d41d032bde8832a6f07df4893caeee6be6e454faa65b31052e834d738d5ae9a0",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_your_work_should_not_live_in_five_tools_and_one_memory_2026_05_29_v1_founder_chaos",
+    "created_at": "2026-06-01T15:44:38.116Z",
+    "source": {
+      "craddle_export_id": "fn_your_work_should_not_live_in_five_tools_and_one_memory_2026_05_29",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "show_credible_progress"
+    },
+    "strategy": {
+      "funnel_stage": "authority",
+      "pain_code": "VIS / VAL",
+      "audience_cohort": "the_fragmented",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "founder_chaos",
+      "post_id": "post-06-founder-chaos",
+      "variant": "cover",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-06-founder-chaos.html",
+      "selection": {
+        "frame_id": "founder_chaos",
+        "production_name": "Founder Chaos / Coherence Frame",
+        "confidence": 0.86,
+        "score": 86,
+        "reasons": [
+          "campaign pillar matched show_credible_progress",
+          "feature area matched bezai",
+          "semantic match: fragmented, fragmentation, coherence",
+          "derived signal match: fragmentation, coherence"
+        ],
+        "signals": [
+          "fragmentation",
+          "coherence",
+          "evidence"
+        ],
+        "rejected": [
+          {
+            "frame_id": "coherence_order",
+            "score": 68,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched bezai",
+              "semantic match: need more coherence, more coherence"
+            ]
+          },
+          {
+            "frame_id": "field_note",
+            "score": 48,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched bezai",
+              "founder note baseline authority fit"
+            ]
+          },
+          {
+            "frame_id": "milestone_evidence",
+            "score": 31,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for bezai",
+              "semantic match: evidence"
+            ]
+          },
+          {
+            "frame_id": "exchange_signals",
+            "score": 13,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for bezai"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "diagram_label",
+          "eyebrow",
+          "headline",
+          "body",
+          "conclusion",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "Your work should not live in five tools and one memory",
+      "context": "Early founder work often becomes fragmented across tools and memory, making progress harder to trust and explain. This note reinforces the coherence...",
+      "context_secondary": "Your work should not live in five tools and one memory.",
+      "cta": {
+        "policy": "soft",
+        "label": "Join the BezNexx alpha - beznexx.com"
+      },
+      "slots": {
+        "fc-chip": "Coherence",
+        "fc-diagram-label": "Scattered &rarr; recorded",
+        "fc-eyebrow": "From chaos to order",
+        "fc-headline": "Your work should not live in<br>five tools and one memory<span class=\"dot\">.</span>",
+        "fc-body": "Early founder progress gets split across notes, chats, decks, screenshots and AI outputs. The work moves. The record does not.",
+        "fc-conclusion": "That is not a productivity problem. It is a trust problem BezNexx is built to solve.",
+        "fc-cta": "Reply ALPHA · beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "lg",
+      "headline_lines": 3,
+      "text_fit": {
+        "quote": {
+          "font_tier": "lg",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "use_compact"
+        },
+        "context_secondary": {
+          "font_tier": "lg",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "founder-chaos",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/founder-chaos.webp",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "before_after",
+      "label": "Scattered to recorded"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}

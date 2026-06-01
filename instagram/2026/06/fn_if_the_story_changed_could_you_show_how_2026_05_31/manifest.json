@@ -1,0 +1,162 @@
+{
+  "campaign_id": "fn_if_the_story_changed_could_you_show_how_2026_05_31",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-02-studio-collaboration.html",
+  "layer5_frame_id": "studio_collaboration",
+  "layer7_confidence": 0.68,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-06-01T15:45:28.114Z",
+  "source_draft": "campaigns/instagram/drafts/2026-06-01-fn_if_the_story_changed_could_you_show_how_2026_05_31-v1.md",
+  "image_file": "instagram/2026/06/fn_if_the_story_changed_could_you_show_how_2026_05_31/post-02-studio-collaboration-v1.jpg",
+  "checksum_sha256": "1adc2e05b985c86a7b42bb1fdd1bba8a4aa53501bc113169c98fea43f37c359f",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_if_the_story_changed_could_you_show_how_2026_05_31_v1_studio_collaboration",
+    "created_at": "2026-06-01T15:44:38.273Z",
+    "source": {
+      "craddle_export_id": "fn_if_the_story_changed_could_you_show_how_2026_05_31",
+      "campaign_pillar": "prove_contribution",
+      "gtm_theme": "prove_contribution"
+    },
+    "strategy": {
+      "funnel_stage": "authority",
+      "pain_code": "AT / COL",
+      "audience_cohort": "the_frozen",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "studio_collaboration",
+      "post_id": "post-02-studio-collaboration",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-02-studio-collaboration.html",
+      "selection": {
+        "frame_id": "studio_collaboration",
+        "production_name": "Studio Collaboration / Contribution Records",
+        "confidence": 0.68,
+        "score": 68,
+        "reasons": [
+          "campaign pillar matched prove_contribution",
+          "feature area matched studio",
+          "semantic match: contribution, attribution",
+          "derived signal match: contribution"
+        ],
+        "signals": [
+          "contribution",
+          "change_sequence"
+        ],
+        "rejected": [
+          {
+            "frame_id": "build_in_public",
+            "score": 68,
+            "reasons": [
+              "campaign pillar matched prove_contribution",
+              "feature area matched studio",
+              "semantic match: story changed, learning changed"
+            ]
+          },
+          {
+            "frame_id": "field_note",
+            "score": 48,
+            "reasons": [
+              "campaign pillar matched prove_contribution",
+              "feature area matched studio",
+              "founder note baseline authority fit"
+            ]
+          },
+          {
+            "frame_id": "alpha_launch",
+            "score": 15,
+            "reasons": [
+              "feature area matched studio"
+            ]
+          },
+          {
+            "frame_id": "vault_proof",
+            "score": -12,
+            "reasons": [
+              "feature area mismatch for studio"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "body",
+          "conclusion",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "If the story changed, could you show how",
+      "context": "Early projects evolve quickly, but most teams cannot show how decisions, contributions, and learning changed over time. This note connects...",
+      "context_secondary": "If the story changed, could you show how?",
+      "cta": {
+        "policy": "soft",
+        "label": "Join the BezNexx alpha - beznexx.com"
+      },
+      "slots": {
+        "sc-chip": "Contribution",
+        "sc-diagram-label": "Memory &rarr; record",
+        "sc-eyebrow": "One attributed record",
+        "sc-headline": "If the story changed,<br>could you show how<span class=\"dot\">.</span>",
+        "sc-body": "When the idea shifts, the record should show what changed and who helped move it forward.",
+        "sc-conclusion": "If the story changed, BezNexx should be able to show how it moved.",
+        "sc-cta": "Reply ALPHA · beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "xl",
+      "headline_lines": 3,
+      "text_fit": {
+        "quote": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "studio-collaboration",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/studio-collaboration.png",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "orbit_hub",
+      "label": "Contribution record"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}

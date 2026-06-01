@@ -1,0 +1,164 @@
+{
+  "campaign_id": "fn_before_you_pitch_it_can_you_explain_what_changed_2026_06_01",
+  "template_key": "social-ops-insta-03",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-05-build-in-public.html",
+  "layer5_frame_id": "build_in_public",
+  "layer7_confidence": 0.78,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-06-01T15:45:26.336Z",
+  "source_draft": "campaigns/instagram/drafts/2026-06-01-fn_before_you_pitch_it_can_you_explain_what_changed_2026_06_01-v1.md",
+  "image_file": "instagram/2026/06/fn_before_you_pitch_it_can_you_explain_what_changed_2026_06_01/post-05-build-in-public-v1.jpg",
+  "checksum_sha256": "d4f8a90bd630ea1e04337eaf006d1f518789c72cb385a4eaf974ef595d18149a",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_before_you_pitch_it_can_you_explain_what_changed_2026_06_01_v1_build_in_public",
+    "created_at": "2026-06-01T15:44:38.209Z",
+    "source": {
+      "craddle_export_id": "fn_before_you_pitch_it_can_you_explain_what_changed_2026_06_01",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "show_credible_progress"
+    },
+    "strategy": {
+      "funnel_stage": "authority",
+      "pain_code": "VIS / VAL",
+      "audience_cohort": "the_fragmented",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "build_in_public",
+      "post_id": "post-05-build-in-public",
+      "variant": "cover",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-05-build-in-public.html",
+      "selection": {
+        "frame_id": "build_in_public",
+        "production_name": "Build in Public / Change Sequence",
+        "confidence": 0.78,
+        "score": 78,
+        "reasons": [
+          "campaign pillar matched show_credible_progress",
+          "feature area matched exchange",
+          "semantic match: what changed, explain what changed, project evolved",
+          "derived signal match: change_sequence"
+        ],
+        "signals": [
+          "coherence",
+          "evidence",
+          "change_sequence"
+        ],
+        "rejected": [
+          {
+            "frame_id": "milestone_evidence",
+            "score": 78,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "semantic match: evidence, credible progress, validation"
+            ]
+          },
+          {
+            "frame_id": "exchange_signals",
+            "score": 50,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "semantic match: exchange"
+            ]
+          },
+          {
+            "frame_id": "field_note",
+            "score": 48,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "founder note baseline authority fit"
+            ]
+          },
+          {
+            "frame_id": "founder_chaos",
+            "score": 21,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for exchange",
+              "derived signal match: coherence"
+            ]
+          }
+        ],
+        "message_flow": [
+          "cover",
+          "sequence",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "Before you pitch it, can you explain what changed",
+      "context": "Founders often rush to present traction before they can explain what they learned and how the project evolved. This note frames credible progress as...",
+      "context_secondary": "Before you pitch it, can you explain what changed?",
+      "cta": {
+        "policy": "soft",
+        "label": "Join the BezNexx alpha - beznexx.com"
+      },
+      "slots": {
+        "bp-chip": "Explainable change",
+        "bp-diagram-label": "Change &rarr; record",
+        "bp-eyebrow": "Before the pitch",
+        "bp-headline": "Before you pitch it,<br>explain what changed<span class=\"dot\">.</span>",
+        "bp-body": "Founders rush to show traction before the work can explain what changed, what moved, and why.",
+        "bp-conclusion": "Before the pitch, BezNexx helps the work explain what changed.",
+        "bp-cta": "Reply ALPHA · beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "lg",
+      "headline_lines": 3,
+      "text_fit": {
+        "quote": {
+          "font_tier": "lg",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "use_compact"
+        },
+        "context_secondary": {
+          "font_tier": "lg",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "build-in-public",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/build-in-public.png",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "flow_pipeline",
+      "label": "Change sequence"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}

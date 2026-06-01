@@ -1,0 +1,160 @@
+{
+  "campaign_id": "fn_contribution_records_beat_memory_2026_05_30",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-02-studio-collaboration.html",
+  "layer5_frame_id": "studio_collaboration",
+  "layer7_confidence": 0.78,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-06-01T15:45:24.440Z",
+  "source_draft": "campaigns/instagram/drafts/2026-06-01-fn_contribution_records_beat_memory_2026_05_30-v1.md",
+  "image_file": "instagram/2026/06/fn_contribution_records_beat_memory_2026_05_30/post-02-studio-collaboration-v1.jpg",
+  "checksum_sha256": "f3b209ceabd14abae1e127dfc7d979bd246113ba5484998c674c68fcd73e45b2",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_contribution_records_beat_memory_2026_05_30_v1_studio_collaboration",
+    "created_at": "2026-06-01T15:44:38.147Z",
+    "source": {
+      "craddle_export_id": "fn_contribution_records_beat_memory_2026_05_30",
+      "campaign_pillar": "prove_contribution",
+      "gtm_theme": "prove_contribution"
+    },
+    "strategy": {
+      "funnel_stage": "authority",
+      "pain_code": "AT / COL",
+      "audience_cohort": "the_frozen",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "studio_collaboration",
+      "post_id": "post-02-studio-collaboration",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-02-studio-collaboration.html",
+      "selection": {
+        "frame_id": "studio_collaboration",
+        "production_name": "Studio Collaboration / Contribution Records",
+        "confidence": 0.78,
+        "score": 78,
+        "reasons": [
+          "campaign pillar matched prove_contribution",
+          "feature area matched studio",
+          "semantic match: contribution, attribution, collaboration",
+          "derived signal match: contribution"
+        ],
+        "signals": [
+          "contribution"
+        ],
+        "rejected": [
+          {
+            "frame_id": "field_note",
+            "score": 48,
+            "reasons": [
+              "campaign pillar matched prove_contribution",
+              "feature area matched studio",
+              "founder note baseline authority fit"
+            ]
+          },
+          {
+            "frame_id": "build_in_public",
+            "score": 40,
+            "reasons": [
+              "campaign pillar matched prove_contribution",
+              "feature area matched studio"
+            ]
+          },
+          {
+            "frame_id": "alpha_launch",
+            "score": 15,
+            "reasons": [
+              "feature area matched studio"
+            ]
+          },
+          {
+            "frame_id": "vault_proof",
+            "score": -12,
+            "reasons": [
+              "feature area mismatch for studio"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "body",
+          "conclusion",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "Contribution records beat memory",
+      "context": "Teams often rely on memory to reconstruct who did what, which breaks down under pressure. This note reframes contribution trust around records...",
+      "context_secondary": "Contribution records beat memory.",
+      "cta": {
+        "policy": "soft",
+        "label": "Join the BezNexx alpha - beznexx.com"
+      },
+      "slots": {
+        "sc-chip": "Contribution",
+        "sc-diagram-label": "Memory &rarr; record",
+        "sc-eyebrow": "One attributed record",
+        "sc-headline": "Contribution records<br>beat memory<span class=\"dot\">.</span>",
+        "sc-body": "Teams should not have to reconstruct who shaped what after the pressure arrives.",
+        "sc-conclusion": "Memory bends under pressure. BezNexx keeps contribution where the work happened.",
+        "sc-cta": "Reply ALPHA · beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "xl",
+      "headline_lines": 2,
+      "text_fit": {
+        "quote": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "studio-collaboration",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/studio-collaboration.png",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "orbit_hub",
+      "label": "Contribution record"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
