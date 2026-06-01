@@ -1,0 +1,163 @@
+{
+  "campaign_id": "rel_beznexx_alpha_launch_2026_05_08",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-08-alpha-launch.html",
+  "layer5_frame_id": "alpha_launch",
+  "layer7_confidence": 0.99,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-06-01T15:15:24.860Z",
+  "source_draft": "campaigns/instagram/drafts/2026-06-01-rel_beznexx_alpha_launch_2026_05_08-v1.md",
+  "image_file": "instagram/2026/06/rel_beznexx_alpha_launch_2026_05_08/post-08-alpha-launch-v1.jpg",
+  "checksum_sha256": "ac09fe9b1236175db9749ff2502951cfdeb5c2062be5121648c47f23ade6d6d3",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_rel_beznexx_alpha_launch_2026_05_08_v1_alpha_launch",
+    "created_at": "2026-06-01T15:14:45.833Z",
+    "source": {
+      "craddle_export_id": "rel_beznexx_alpha_launch_2026_05_08",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "show_credible_progress"
+    },
+    "strategy": {
+      "funnel_stage": "conversion",
+      "pain_code": "VIS / VAL",
+      "audience_cohort": "the_fragmented",
+      "cta_policy": "canonical_alpha",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "alpha_launch",
+      "post_id": "post-08-alpha-launch",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-08-alpha-launch.html",
+      "selection": {
+        "frame_id": "alpha_launch",
+        "production_name": "Alpha Launch",
+        "confidence": 0.99,
+        "score": 113,
+        "reasons": [
+          "campaign pillar matched show_credible_progress",
+          "feature area matched studio",
+          "semantic match: alpha is open, join the alpha, open to early founders",
+          "derived signal match: launch",
+          "release content prefers alpha launch frame"
+        ],
+        "signals": [
+          "fragmentation",
+          "coherence",
+          "launch"
+        ],
+        "rejected": [
+          {
+            "frame_id": "founder_chaos",
+            "score": 49,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for studio",
+              "semantic match: scattered, coherence"
+            ]
+          },
+          {
+            "frame_id": "build_in_public",
+            "score": 40,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio"
+            ]
+          },
+          {
+            "frame_id": "field_note",
+            "score": 40,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio"
+            ]
+          },
+          {
+            "frame_id": "milestone_evidence",
+            "score": 23,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for studio",
+              "semantic match: credible progress"
+            ]
+          }
+        ],
+        "message_flow": [
+          "headline",
+          "body",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "BezNexx alpha is open",
+      "context": "BezNexx alpha is open to early founders who want a trusted structure for turning scattered early work into credible progress.",
+      "context_secondary": "BezNexx is now open to early founders in alpha.",
+      "cta": {
+        "policy": "canonical_alpha",
+        "label": "Join the BezNexx alpha — beznexx.com"
+      },
+      "slots": {
+        "al-chip": "Alpha",
+        "al-diagram-label": "Open &rarr; access",
+        "al-eyebrow": "Now in alpha",
+        "al-headline": "BezNexx alpha<br>is open<span class=\"dot\">.</span>",
+        "al-body": "For early founders who want one trusted structure for turning scattered work into credible progress.",
+        "al-conclusion": "Bring one live project into the BezNexx alpha and build the record while the work is still moving.",
+        "al-cta": "Join the BezNexx alpha — beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "xl",
+      "headline_lines": 2,
+      "text_fit": {
+        "quote": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 4,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "alpha-launch",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/00-shared/assets/captures/cap-dashboard-trust-record.png",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "trustrank_meter",
+      "label": "Alpha"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
