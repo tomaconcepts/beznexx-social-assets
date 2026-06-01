@@ -6,10 +6,10 @@
   "layer5_frame_id": "build_in_public",
   "layer7_confidence": 0.78,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-06-01T15:45:26.336Z",
+  "rendered_at": "2026-06-01T15:59:23.466Z",
   "source_draft": "campaigns/instagram/drafts/2026-06-01-fn_before_you_pitch_it_can_you_explain_what_changed_2026_06_01-v1.md",
   "image_file": "instagram/2026/06/fn_before_you_pitch_it_can_you_explain_what_changed_2026_06_01/post-05-build-in-public-v1.jpg",
-  "checksum_sha256": "d4f8a90bd630ea1e04337eaf006d1f518789c72cb385a4eaf974ef595d18149a",
+  "checksum_sha256": "9e36291741e69ae990e7cd052aa8235f19538a0d224e82abce4fc4eb0a09537f",
   "dimensions": {
     "width": 1080,
     "height": 1350
