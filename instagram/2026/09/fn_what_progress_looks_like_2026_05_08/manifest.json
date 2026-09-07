@@ -1,0 +1,167 @@
+{
+  "campaign_id": "fn_what_progress_looks_like_2026_05_08",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-07-milestone-evidence.html",
+  "layer5_frame_id": "milestone_evidence",
+  "layer7_confidence": 0.68,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-09-07T11:02:37.253Z",
+  "source_draft": "campaigns/instagram/drafts/2026-09-07-fn_what_progress_looks_like_2026_05_08-v1.md",
+  "image_file": "instagram/2026/09/fn_what_progress_looks_like_2026_05_08/post-07-milestone-evidence-v1.jpg",
+  "checksum_sha256": "44179fd22c066f18f18a2a53e8a6d95003f04f5aabe878d6dafaa463fd4c6f6f",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_what_progress_looks_like_2026_05_08_v1_milestone_evidence",
+    "created_at": "2026-09-07T11:01:57.342Z",
+    "source": {
+      "craddle_export_id": "fn_what_progress_looks_like_2026_05_08",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "show_credible_progress"
+    },
+    "strategy": {
+      "funnel_stage": "authority",
+      "pain_code": "VIS / VAL",
+      "audience_cohort": "the_fragmented",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "milestone_evidence",
+      "post_id": "post-07-milestone-evidence",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-07-milestone-evidence.html",
+      "selection": {
+        "frame_id": "milestone_evidence",
+        "production_name": "Milestone Evidence / Proof",
+        "confidence": 0.68,
+        "score": 68,
+        "reasons": [
+          "campaign pillar matched show_credible_progress",
+          "feature area matched exchange",
+          "semantic match: credible progress, validation",
+          "derived signal match: evidence"
+        ],
+        "signals": [
+          "fragmentation",
+          "coherence",
+          "evidence",
+          "contribution"
+        ],
+        "rejected": [
+          {
+            "frame_id": "exchange_signals",
+            "score": 60,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "semantic match: verify, exchange"
+            ]
+          },
+          {
+            "frame_id": "field_note",
+            "score": 58,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "semantic match: authority"
+            ]
+          },
+          {
+            "frame_id": "build_in_public",
+            "score": 40,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange"
+            ]
+          },
+          {
+            "frame_id": "founder_chaos",
+            "score": 39,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for exchange",
+              "semantic match: fragmented, scattered, coherence"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "body",
+          "proof_line",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "What progress actually looks like",
+      "context": "Most early founder progress is invisible — not because nothing is happening, but because it lives across tools, notes, and conversations that no one...",
+      "context_secondary": "Most founders are making progress.",
+      "cta": {
+        "policy": "soft",
+        "label": "Request Alpha Access - beznexx.com"
+      },
+      "slots": {
+        "me-chip": "Evidence",
+        "me-diagram-label": "Claim &rarr; evidence",
+        "me-eyebrow": "Verified progress",
+        "me-headline": "What progress actually<br>looks like<span class=\"dot\">.</span>",
+        "me-body": "Most early progress is invisible because it lives across tools, notes and conversations no one else can verify.",
+        "me-conclusion": "BezNexx makes early progress inspectable before the pitch has to explain it.",
+        "me-cta": "Reply ALPHA · beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "xl",
+      "headline_lines": 2,
+      "text_fit": {
+        "quote": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "use_compact"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "milestone-evidence",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/milestone-evidence.webp",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "trustrank_meter",
+      "label": "Proof"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
