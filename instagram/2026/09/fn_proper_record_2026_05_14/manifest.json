@@ -6,10 +6,10 @@
   "layer5_frame_id": "studio_collaboration",
   "layer7_confidence": 0.78,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-07T11:05:09.776Z",
+  "rendered_at": "2026-09-07T11:38:40.975Z",
   "source_draft": "campaigns/instagram/drafts/2026-09-07-fn_proper_record_2026_05_14-v1.md",
   "image_file": "instagram/2026/09/fn_proper_record_2026_05_14/post-02-studio-collaboration-v1.jpg",
-  "checksum_sha256": "21d4abe18d022dc9140b12c8280f47acf85885611fda4e330af3223dbfbbf544",
+  "checksum_sha256": "3e2e8c3de99fb40731bad19e35d99762216e37c0a534bfc74d0aec68d6050151",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -107,7 +107,7 @@
         "sc-headline": "A proper record<br>changes the conversation<span class=\"dot\">.</span>",
         "sc-body": "Contribution problems often start as undocumented assumptions, unclear ownership and missing context.",
         "sc-conclusion": "BezNexx makes the record exist before the awkward conversation starts.",
-        "sc-cta": "Reply ALPHA · beznexx.com"
+        "sc-cta": "Request Alpha Access - beznexx.com"
       }
     },
     "layout": {
