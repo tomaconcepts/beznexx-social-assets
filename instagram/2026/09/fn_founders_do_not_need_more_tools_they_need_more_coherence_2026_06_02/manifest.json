@@ -1,0 +1,168 @@
+{
+  "campaign_id": "fn_founders_do_not_need_more_tools_they_need_more_coherence_2026_06_02",
+  "template_key": "social-ops-insta-03",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-06-founder-chaos.html",
+  "layer5_frame_id": "founder_chaos",
+  "layer7_confidence": 0.86,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-09-07T10:51:54.802Z",
+  "source_draft": "campaigns/instagram/drafts/2026-09-07-fn_founders_do_not_need_more_tools_they_need_more_coherence_2026_06_02-v1.md",
+  "image_file": "instagram/2026/09/fn_founders_do_not_need_more_tools_they_need_more_coherence_2026_06_02/post-06-founder-chaos-v1.jpg",
+  "checksum_sha256": "9d7b7cd3fa7eae3a915e53870910ccf990228c349e093ecfde9b07bbc266abbb",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_founders_do_not_need_more_tools_they_need_more_coherence_2026_06_02_v1_founder_chaos",
+    "created_at": "2026-09-07T10:51:19.646Z",
+    "source": {
+      "craddle_export_id": "fn_founders_do_not_need_more_tools_they_need_more_coherence_2026_06_02",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "show_credible_progress"
+    },
+    "strategy": {
+      "funnel_stage": "authority",
+      "pain_code": "VIS / VAL",
+      "audience_cohort": "the_fragmented",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "founder_chaos",
+      "post_id": "post-06-founder-chaos",
+      "variant": "cover",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-06-founder-chaos.html",
+      "selection": {
+        "frame_id": "founder_chaos",
+        "production_name": "Founder Chaos / Coherence Frame",
+        "confidence": 0.86,
+        "score": 86,
+        "reasons": [
+          "campaign pillar matched show_credible_progress",
+          "feature area matched bezai",
+          "semantic match: fragmented, fragmentation, scattered",
+          "derived signal match: fragmentation, coherence"
+        ],
+        "signals": [
+          "fragmentation",
+          "coherence",
+          "change_sequence",
+          "authority"
+        ],
+        "rejected": [
+          {
+            "frame_id": "coherence_order",
+            "score": 78,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched bezai",
+              "semantic match: coherence before more tooling, need more coherence, more coherence"
+            ]
+          },
+          {
+            "frame_id": "field_note",
+            "score": 66,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched bezai",
+              "semantic match: belief"
+            ]
+          },
+          {
+            "frame_id": "build_in_public",
+            "score": 31,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for bezai",
+              "semantic match: what changed"
+            ]
+          },
+          {
+            "frame_id": "exchange_signals",
+            "score": 13,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for bezai"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "diagram_label",
+          "eyebrow",
+          "headline",
+          "body",
+          "conclusion",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "Founders do not need more tools. They need more coherence",
+      "context": "Founders are often overloaded by tools, fragments, and disconnected workflow surfaces rather than helped by them. This note states the core BezNexx...",
+      "context_secondary": "Founders do not need more tools.",
+      "cta": {
+        "policy": "soft",
+        "label": "Request Alpha Access - beznexx.com"
+      },
+      "slots": {
+        "fc-chip": "Coherence",
+        "fc-diagram-label": "Scattered &rarr; recorded",
+        "fc-eyebrow": "From chaos to order",
+        "fc-headline": "Founders do not need more<br>tools. They need more coherence<span class=\"dot\">.</span>",
+        "fc-body": "Early founder progress gets split across notes, chats, decks, screenshots and AI outputs. The work moves. The record does not.",
+        "fc-conclusion": "The next step is not another workflow. It is one BezNexx record the work can stand on.",
+        "fc-cta": "Reply ALPHA · beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "lg",
+      "headline_lines": 4,
+      "text_fit": {
+        "quote": {
+          "font_tier": "lg",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "founder-chaos",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/founder-chaos.webp",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "before_after",
+      "label": "Scattered to recorded"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
