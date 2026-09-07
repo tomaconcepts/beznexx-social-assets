@@ -1,0 +1,167 @@
+{
+  "campaign_id": "fn_interest_is_not_intent_2026_09_03",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-07-milestone-evidence.html",
+  "layer5_frame_id": "milestone_evidence",
+  "layer7_confidence": 0.88,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-09-07T10:31:27.596Z",
+  "source_draft": "campaigns/instagram/drafts/2026-09-07-fn_interest_is_not_intent_2026_09_03-v1.md",
+  "image_file": "instagram/2026/09/fn_interest_is_not_intent_2026_09_03/post-07-milestone-evidence-v1.jpg",
+  "checksum_sha256": "6444ff3aa05af2e74d75d3dc06fafc49d74878ae13c99940c798e107cbcc1af3",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_interest_is_not_intent_2026_09_03_v1_milestone_evidence",
+    "created_at": "2026-09-07T10:22:59.656Z",
+    "source": {
+      "craddle_export_id": "fn_interest_is_not_intent_2026_09_03",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "show_credible_progress"
+    },
+    "strategy": {
+      "funnel_stage": "trust",
+      "pain_code": "VAL",
+      "audience_cohort": "the_forgotten",
+      "cta_policy": "canonical_alpha",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "milestone_evidence",
+      "post_id": "post-07-milestone-evidence",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-07-milestone-evidence.html",
+      "selection": {
+        "frame_id": "milestone_evidence",
+        "production_name": "Milestone Evidence / Proof",
+        "confidence": 0.88,
+        "score": 88,
+        "reasons": [
+          "campaign pillar matched show_credible_progress",
+          "feature area matched exchange",
+          "pain code matched VAL",
+          "semantic match: evidence, proof, validation",
+          "derived signal match: evidence"
+        ],
+        "signals": [
+          "evidence",
+          "change_sequence"
+        ],
+        "rejected": [
+          {
+            "frame_id": "exchange_signals",
+            "score": 70,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "build_in_public",
+            "score": 68,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "field_note",
+            "score": 58,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched exchange",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "founder_chaos",
+            "score": 23,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for exchange",
+              "pain code matched VAL"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "body",
+          "proof_line",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "Interest is not intent",
+      "context": "Founders and researchers can lose months when weak signals are treated as proof. This note frames BezNexx as the place to keep an honest evidence...",
+      "context_secondary": "Interest is not intent.",
+      "cta": {
+        "policy": "canonical_alpha",
+        "label": "Join the BezNexx alpha - beznexx.com"
+      },
+      "slots": {
+        "me-chip": "Evidence",
+        "me-diagram-label": "Claim &rarr; evidence",
+        "me-eyebrow": "Verified progress",
+        "me-headline": "Interest is<br>not intent<span class=\"dot\">.</span>",
+        "me-body": "Founders and researchers can lose months when weak signals are treated as proof. This note frames BezNexx as the place to keep an honest evidence...",
+        "me-conclusion": "BezNexx makes early progress inspectable before the pitch has to explain it.",
+        "me-cta": "Reply ALPHA · beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "xl",
+      "headline_lines": 2,
+      "text_fit": {
+        "quote": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "milestone-evidence",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/milestone-evidence.webp",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "trustrank_meter",
+      "label": "Proof"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
