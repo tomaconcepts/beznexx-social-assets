@@ -6,10 +6,10 @@
   "layer5_frame_id": "milestone_evidence",
   "layer7_confidence": 0.68,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-07T11:02:37.253Z",
+  "rendered_at": "2026-09-07T11:40:45.844Z",
   "source_draft": "campaigns/instagram/drafts/2026-09-07-fn_what_progress_looks_like_2026_05_08-v1.md",
   "image_file": "instagram/2026/09/fn_what_progress_looks_like_2026_05_08/post-07-milestone-evidence-v1.jpg",
-  "checksum_sha256": "44179fd22c066f18f18a2a53e8a6d95003f04f5aabe878d6dafaa463fd4c6f6f",
+  "checksum_sha256": "ab2e769b5af0190913b1cf8c05285c63b353263247b7c620336f0cb664c1f8f9",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -114,7 +114,7 @@
         "me-headline": "What progress actually<br>looks like<span class=\"dot\">.</span>",
         "me-body": "Most early progress is invisible because it lives across tools, notes and conversations no one else can verify.",
         "me-conclusion": "BezNexx makes early progress inspectable before the pitch has to explain it.",
-        "me-cta": "Reply ALPHA · beznexx.com"
+        "me-cta": "Request Alpha Access - beznexx.com"
       }
     },
     "layout": {
