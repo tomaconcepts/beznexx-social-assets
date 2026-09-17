@@ -1,0 +1,163 @@
+{
+  "campaign_id": "fn_you_don_t_need_a_finished_idea_to_start_keeping_its_history_2026_09_14",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-01-vault-proof.html",
+  "layer5_frame_id": "vault_proof",
+  "layer7_confidence": 0.68,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-09-17T11:21:22.000Z",
+  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_you_don_t_need_a_finished_idea_to_start_keeping_its_history_2026_09_14-v1.md",
+  "image_file": "instagram/2026/09/fn_you_don_t_need_a_finished_idea_to_start_keeping_its_history_2026_09_14/post-01-vault-proof-v1.jpg",
+  "checksum_sha256": "f3e3db8d426e264775ecb58863fe877c98e7f4c3478a09196b00fed5fbc68d6d",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_you_don_t_need_a_finished_idea_to_start_keeping_its_history_2026_09_14_v1_vault_proof",
+    "created_at": "2026-09-17T11:09:38.571Z",
+    "source": {
+      "craddle_export_id": "fn_you_don_t_need_a_finished_idea_to_start_keeping_its_history_2026_09_14",
+      "campaign_pillar": "protect_the_idea",
+      "gtm_theme": "connected_founder_progress"
+    },
+    "strategy": {
+      "funnel_stage": "explanation",
+      "pain_code": "FRAG",
+      "audience_cohort": "the_fragmented",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "vault_proof",
+      "post_id": "post-01-vault-proof",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-01-vault-proof.html",
+      "selection": {
+        "frame_id": "vault_proof",
+        "production_name": "Vault Proof",
+        "confidence": 0.68,
+        "score": 68,
+        "reasons": [
+          "preferred format before_after mapped to vault_proof",
+          "campaign pillar matched protect_the_idea",
+          "feature area mismatch for studio",
+          "semantic match: keeping its history"
+        ],
+        "signals": [
+          "evidence",
+          "contribution"
+        ],
+        "rejected": [
+          {
+            "frame_id": "field_note",
+            "score": 58,
+            "reasons": [
+              "campaign pillar matched protect_the_idea",
+              "feature area matched studio",
+              "pain code matched FRAG"
+            ]
+          },
+          {
+            "frame_id": "studio_collaboration",
+            "score": 33,
+            "reasons": [
+              "feature area matched studio",
+              "semantic match: contribution",
+              "derived signal match: contribution"
+            ]
+          },
+          {
+            "frame_id": "alpha_launch",
+            "score": 25,
+            "reasons": [
+              "feature area matched studio",
+              "pain code matched FRAG"
+            ]
+          },
+          {
+            "frame_id": "build_in_public",
+            "score": 15,
+            "reasons": [
+              "feature area matched studio"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "body",
+          "conclusion",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "You don't need a finished idea to start keeping its history",
+      "context": "Early exploration already produces evidence and decisions worth preserving privately, before a founder is ready to share a finished explanation.",
+      "context_secondary": "# You don't need a finished idea to start keeping its history.",
+      "cta": {
+        "policy": "soft",
+        "label": "Request Alpha Access — beznexx.com"
+      },
+      "slots": {
+        "vp-chip": "Protection",
+        "vp-diagram-label": "Shared &rarr; traceable",
+        "vp-eyebrow": "Share earlier, with a record",
+        "vp-headline": "You don't need a finished idea<br>to start keeping its history<span class=\"dot\">.</span>",
+        "vp-body": "Early exploration already produces evidence and decisions worth preserving privately, before a founder is ready to share a finished explanation.",
+        "vp-conclusion": "Share the work earlier. Let BezNexx keep the trace.",
+        "vp-cta": "Request Alpha Access — beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "lg",
+      "headline_lines": 4,
+      "text_fit": {
+        "quote": {
+          "font_tier": "lg",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "lg",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "vault-proof",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/vault-proof.webp",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "vault_timestamp",
+      "label": "Vault"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
