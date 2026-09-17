@@ -1,18 +1,25 @@
 {
   "campaign_id": "fn_proper_record_2026_05_14",
-  "template_key": "social-ops-insta-01",
-  "layer": 5,
-  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-02-studio-collaboration.html",
-  "layer5_frame_id": "studio_collaboration",
-  "layer7_confidence": null,
-  "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-17T13:45:10.024Z",
-  "source_draft": "/private/tmp/claude-501/-Users-tomaconcepts-BezNexx-Main/e8ddb674-9b24-4608-9c49-1ecb5dc7c89d/scratchpad/rerender-proper-record-cover-v2.md",
-  "image_file": "instagram/2026/09/fn_proper_record_2026_05_14/post-02-studio-collaboration-v2.jpg",
-  "checksum_sha256": "da3679674e0776fa766331a87258ad7674a9bce26d2e3f173cfedde3f38d5698",
-  "dimensions": {
-    "width": 1080,
-    "height": 1350
-  },
-  "render_instruction": null
+  "template_key": "social-ops-insta-03",
+  "html_template": "social-ops-insta-03.html",
+  "renderer": "puppeteer",
+  "rendered_at": "2026-09-17T14:08:03.259Z",
+  "source_draft": "campaigns/instagram/approved/2026-09-24-fn_proper_record_2026_05_14-carousel-test-v1.md",
+  "image_files": [
+    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-1-v2.jpg",
+    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-2-v2.jpg",
+    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-3-v2.jpg",
+    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-4-v2.jpg",
+    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-5-v2.jpg",
+    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-6-v2.jpg"
+  ],
+  "slide_count": 6,
+  "checksum_sha256": [
+    "96d2e7d2665b957dbd416e5556317f3c5c19969a5ad2979573f2d1f7954138e0",
+    "bbed4eb184faf457d58712fad2611c266ce6b2337db5d28c71e4ae8e276ea64c",
+    "0633d1e50c76d2c4a68fcb89f9a9f1b4ace503e8e120b21c60bc22288cd992b2",
+    "9d1c2b65d6ef947e6a60084123b04ee8d9249d32434e3b38a9ee96617a76428a",
+    "0092b5ec9cb49974aea64a953f6e7c0a033ce9db8db4d318fbbd4daed81cf30a",
+    "41e0c3f953b7110f7f7f0fa811ef7c1203b072ee5f15142256f188013ad3746a"
+  ]
 }
