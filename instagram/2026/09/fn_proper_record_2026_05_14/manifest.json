@@ -3,23 +3,21 @@
   "template_key": "social-ops-insta-03",
   "html_template": "social-ops-insta-03.html",
   "renderer": "puppeteer",
-  "rendered_at": "2026-09-17T12:12:01.066Z",
+  "rendered_at": "2026-09-17T13:35:49.026Z",
   "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_proper_record_2026_05_14-carousel-test-v1.md",
   "image_files": [
     "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-1-v1.jpg",
     "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-2-v1.jpg",
     "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-3-v1.jpg",
     "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-4-v1.jpg",
-    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-5-v1.jpg",
-    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-6-v1.jpg"
+    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-5-v1.jpg"
   ],
-  "slide_count": 6,
+  "slide_count": 5,
   "checksum_sha256": [
-    "d6de63127ada5c676ea58887e407d0feaac88a6309ad3426623d3b76c04428a9",
-    "9bda9cda2f30747f7cc9b7133e080c8c9bd5c39d606f4f6f7f1d22ea9532c16e",
-    "f42a20f62f6eda74bd249b2488ea2ebfc94f239d07ac30de0f8086b1921d6143",
-    "17a6348786ce67ffa7b88ccc13119bb92a9805f45d15d3f77215476e25e60b9a",
-    "dea17e7669b22d93dba5a83c0b49b663e3e670e430b76fa194b4ed5e4d5f3360",
-    "95d104b3003244d483e49bc4c88c83ad75c76feb1d84c36805096a29209cf478"
+    "d0347d02a50fc6c4f732693af67aea3266e04b0a6006ada59d3509a7af9f1ba2",
+    "1fc979c59a1d15f5d94837a78cfbe3917a3a3d0882bfaf1a48b2c2a130766c03",
+    "6c2fffd8e7b0dbebe4eaa7d718828451b4c79a0b5fa14349d9654df9dc00b9cd",
+    "aadbcb6263b162e6d6a87dfb149e85cf8073fbe1366c1d284a757d4621891a32",
+    "b5b90ad9a04b0b54cfd72bdce8011f0cd3b693678f0a42ee40c2ac3b5b037b9a"
   ]
 }
