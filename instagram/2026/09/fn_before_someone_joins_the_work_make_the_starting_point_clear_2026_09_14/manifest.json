@@ -6,10 +6,10 @@
   "layer5_frame_id": "studio_collaboration",
   "layer7_confidence": 0.99,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-17T11:20:41.634Z",
-  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_before_someone_joins_the_work_make_the_starting_point_clear_2026_09_14-v1.md",
+  "rendered_at": "2026-09-17T13:44:02.234Z",
+  "source_draft": "campaigns/instagram/approved/2026-09-17-fn_before_someone_joins_the_work_make_the_starting_point_clear_2026_09_14-v1.md",
   "image_file": "instagram/2026/09/fn_before_someone_joins_the_work_make_the_starting_point_clear_2026_09_14/post-02-studio-collaboration-v1.jpg",
-  "checksum_sha256": "4aa0cbb4a520181ac2059f4189bfb159d55a4a580e178a7c2686aba429088327",
+  "checksum_sha256": "39b2272f422d4d729742b1e519a121c9cebc0e399a9530953df234990ddb4a20",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -104,7 +104,7 @@
       "context_secondary": "# Before someone joins the work, make the starting point clear.",
       "cta": {
         "policy": "soft",
-        "label": "Request Alpha Access — beznexx.com"
+        "label": "Request Alpha Access — link in bio"
       },
       "slots": {
         "sc-chip": "Contribution",
@@ -113,7 +113,7 @@
         "sc-headline": "Before someone joins the work,<br>make the starting point clear<span class=\"dot\">.</span>",
         "sc-body": "A shared starting point helps a new contributor understand existing work, evidence, responsibilities, and how their input will shape the next stage.",
         "sc-conclusion": "BezNexx keeps the record close to the people who made the work real.",
-        "sc-cta": "Request Alpha Access — beznexx.com"
+        "sc-cta": "Request Alpha Access — link in bio"
       }
     },
     "layout": {

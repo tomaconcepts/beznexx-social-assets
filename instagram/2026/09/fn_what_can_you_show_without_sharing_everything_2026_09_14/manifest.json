@@ -6,10 +6,10 @@
   "layer5_frame_id": "vault_proof",
   "layer7_confidence": 0.99,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-17T11:23:41.678Z",
-  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_what_can_you_show_without_sharing_everything_2026_09_14-v1.md",
+  "rendered_at": "2026-09-17T13:44:04.881Z",
+  "source_draft": "campaigns/instagram/approved/2026-09-17-fn_what_can_you_show_without_sharing_everything_2026_09_14-v1.md",
   "image_file": "instagram/2026/09/fn_what_can_you_show_without_sharing_everything_2026_09_14/post-01-vault-proof-v1.jpg",
-  "checksum_sha256": "9afbae7995d790ce17605afc75099043a1fdcdc220993a4ba1c0c9aeee4ef301",
+  "checksum_sha256": "219371b6894fe84f1cb604d391f8eb4fcb13ae6e2534cbe7a60621b91aa80253",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -105,7 +105,7 @@
       "context_secondary": "# What can you show without sharing everything?",
       "cta": {
         "policy": "soft",
-        "label": "Request Alpha Access — beznexx.com"
+        "label": "Request Alpha Access — link in bio"
       },
       "slots": {
         "vp-chip": "Protection",
@@ -114,7 +114,7 @@
         "vp-headline": "What can you show<br>without sharing everything<span class=\"dot\">.</span>",
         "vp-body": "A guided alpha invitation focused on choosing what a partner needs to see while keeping the wider work, evidence, and contributions connected...",
         "vp-conclusion": "Share the work earlier. Let BezNexx keep the trace.",
-        "vp-cta": "Request Alpha Access — beznexx.com"
+        "vp-cta": "Request Alpha Access — link in bio"
       }
     },
     "layout": {

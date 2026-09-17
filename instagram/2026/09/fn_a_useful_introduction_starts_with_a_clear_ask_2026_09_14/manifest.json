@@ -6,10 +6,10 @@
   "layer5_frame_id": "alpha_launch",
   "layer7_confidence": 0.85,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-17T11:11:30.374Z",
-  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_a_useful_introduction_starts_with_a_clear_ask_2026_09_14-v1.md",
+  "rendered_at": "2026-09-17T13:44:01.396Z",
+  "source_draft": "campaigns/instagram/approved/2026-09-17-fn_a_useful_introduction_starts_with_a_clear_ask_2026_09_14-v1.md",
   "image_file": "instagram/2026/09/fn_a_useful_introduction_starts_with_a_clear_ask_2026_09_14/post-08-alpha-launch-v1.jpg",
-  "checksum_sha256": "c87858d0e6b0f27ff3eb4b8cc95af194be55fa736b6edaad815d1d8ca969f23b",
+  "checksum_sha256": "03dd546e3d7d426dd8b818d1a41592f924a22bdfa758a4aac546bb24a7f58509",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -99,7 +99,7 @@
       "context_secondary": "# A useful introduction starts with a clear ask.",
       "cta": {
         "policy": "canonical_alpha",
-        "label": "Request Alpha Access — beznexx.com"
+        "label": "Request Alpha Access — link in bio"
       },
       "slots": {
         "al-chip": "Alpha",
@@ -108,7 +108,7 @@
         "al-headline": "BezNexx alpha<br>is open<span class=\"dot\">.</span>",
         "al-body": "For early founders who want one trusted structure for turning scattered work into credible progress.",
         "al-conclusion": "Bring one live project into the BezNexx alpha and build the record while the work is still moving.",
-        "al-cta": "Request Alpha Access — beznexx.com"
+        "al-cta": "Request Alpha Access — link in bio"
       }
     },
     "layout": {

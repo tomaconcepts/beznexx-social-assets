@@ -6,10 +6,10 @@
   "layer5_frame_id": "vault_proof",
   "layer7_confidence": 0.68,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-17T11:21:22.000Z",
-  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_you_don_t_need_a_finished_idea_to_start_keeping_its_history_2026_09_14-v1.md",
+  "rendered_at": "2026-09-17T13:43:46.896Z",
+  "source_draft": "campaigns/instagram/approved/2026-09-17-fn_you_don_t_need_a_finished_idea_to_start_keeping_its_history_2026_09_14-v1.md",
   "image_file": "instagram/2026/09/fn_you_don_t_need_a_finished_idea_to_start_keeping_its_history_2026_09_14/post-01-vault-proof-v1.jpg",
-  "checksum_sha256": "f3e3db8d426e264775ecb58863fe877c98e7f4c3478a09196b00fed5fbc68d6d",
+  "checksum_sha256": "439f3bf4c32f9d954be82cc2e6f42825b87bb440976cdd16c48eeb3fe91206a0",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -101,7 +101,7 @@
       "context_secondary": "# You don't need a finished idea to start keeping its history.",
       "cta": {
         "policy": "soft",
-        "label": "Request Alpha Access — beznexx.com"
+        "label": "Request Alpha Access — link in bio"
       },
       "slots": {
         "vp-chip": "Protection",
@@ -110,7 +110,7 @@
         "vp-headline": "You don't need a finished idea<br>to start keeping its history<span class=\"dot\">.</span>",
         "vp-body": "Early exploration already produces evidence and decisions worth preserving privately, before a founder is ready to share a finished explanation.",
         "vp-conclusion": "Share the work earlier. Let BezNexx keep the trace.",
-        "vp-cta": "Request Alpha Access — beznexx.com"
+        "vp-cta": "Request Alpha Access — link in bio"
       }
     },
     "layout": {

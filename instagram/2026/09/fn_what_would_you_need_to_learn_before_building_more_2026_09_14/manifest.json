@@ -6,10 +6,10 @@
   "layer5_frame_id": "milestone_evidence",
   "layer7_confidence": 0.86,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-17T11:24:25.727Z",
-  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_what_would_you_need_to_learn_before_building_more_2026_09_14-v1.md",
+  "rendered_at": "2026-09-17T13:44:05.745Z",
+  "source_draft": "campaigns/instagram/approved/2026-09-17-fn_what_would_you_need_to_learn_before_building_more_2026_09_14-v1.md",
   "image_file": "instagram/2026/09/fn_what_would_you_need_to_learn_before_building_more_2026_09_14/post-07-milestone-evidence-v1.jpg",
-  "checksum_sha256": "ffd7590fe97a478f331e4d996dceb5644b3478f009c2b409a88d0d8e534d1dc8",
+  "checksum_sha256": "a083f51ec43c6f353cd5854ef87d6c895c809a8bd2dda662772628e52e0ce3f2",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -107,7 +107,7 @@
       "context_secondary": "# What would you need to learn before building more?",
       "cta": {
         "policy": "soft",
-        "label": "Request Alpha Access — beznexx.com"
+        "label": "Request Alpha Access — link in bio"
       },
       "slots": {
         "me-chip": "Evidence",
@@ -116,7 +116,7 @@
         "me-headline": "What would you need to<br>learn before building more<span class=\"dot\">.</span>",
         "me-body": "Choosing a consequential uncertainty gives early work a purpose and connects the next test to evidence, specialist input, and a recorded decision.",
         "me-conclusion": "BezNexx makes early progress inspectable before the pitch has to explain it.",
-        "me-cta": "Request Alpha Access — beznexx.com"
+        "me-cta": "Request Alpha Access — link in bio"
       }
     },
     "layout": {

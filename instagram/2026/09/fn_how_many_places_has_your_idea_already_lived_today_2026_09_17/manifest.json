@@ -6,10 +6,10 @@
   "layer5_frame_id": "founder_chaos",
   "layer7_confidence": 0.76,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-17T11:22:16.123Z",
-  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_how_many_places_has_your_idea_already_lived_today_2026_09_17-v1.md",
+  "rendered_at": "2026-09-17T13:44:03.142Z",
+  "source_draft": "campaigns/instagram/approved/2026-09-17-fn_how_many_places_has_your_idea_already_lived_today_2026_09_17-v1.md",
   "image_file": "instagram/2026/09/fn_how_many_places_has_your_idea_already_lived_today_2026_09_17/post-06-founder-chaos-v1.jpg",
-  "checksum_sha256": "84991e643cc848ec112077b1daa0955768af35c7af79c32e0f72e2bb2a7ec001",
+  "checksum_sha256": "0d9b1267ea2ec31d02bbc0a0d133226b0308c78d94910b4e8726ea063f0b48fd",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -106,7 +106,7 @@
       "context_secondary": "# How many places has your idea already lived today?",
       "cta": {
         "policy": "soft",
-        "label": "Request Alpha Access — beznexx.com"
+        "label": "Request Alpha Access — link in bio"
       },
       "slots": {
         "fc-chip": "Coherence",
@@ -115,7 +115,7 @@
         "fc-headline": "How many places has your<br>idea already lived today<span class=\"dot\">.</span>",
         "fc-body": "Early founder progress gets split across notes, chats, decks, screenshots and AI outputs. The work moves. The record does not.",
         "fc-conclusion": "BezNexx gives scattered work one record before memory has to defend it.",
-        "fc-cta": "Request Alpha Access — beznexx.com"
+        "fc-cta": "Request Alpha Access — link in bio"
       }
     },
     "layout": {

@@ -6,10 +6,10 @@
   "layer5_frame_id": "founder_chaos",
   "layer7_confidence": 0.68,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-17T11:22:57.439Z",
-  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_the_next_conversation_is_the_real_deadline_2026_09_14-v2.md",
+  "rendered_at": "2026-09-17T13:44:04.021Z",
+  "source_draft": "campaigns/instagram/approved/2026-09-17-fn_the_next_conversation_is_the_real_deadline_2026_09_14-v2.md",
   "image_file": "instagram/2026/09/fn_the_next_conversation_is_the_real_deadline_2026_09_14/post-06-founder-chaos-v2.jpg",
-  "checksum_sha256": "70d280a351b66364b4c784588d70a99779077d502f45d84adcd7457741cd1498",
+  "checksum_sha256": "1df31374f3caad3020e170add93961b641a7ac85abdf091819403b46fb55cb43",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -104,7 +104,7 @@
       "context_secondary": "# The next conversation is the real deadline.",
       "cta": {
         "policy": "soft",
-        "label": "Request Alpha Access — beznexx.com"
+        "label": "Request Alpha Access — link in bio"
       },
       "slots": {
         "fc-chip": "Coherence",
@@ -113,7 +113,7 @@
         "fc-headline": "The next conversation is<br>the real deadline<span class=\"dot\">.</span>",
         "fc-body": "Early founder progress gets split across notes, chats, decks, screenshots and AI outputs. The work moves. The record does not.",
         "fc-conclusion": "BezNexx gives scattered work one record before memory has to defend it.",
-        "fc-cta": "Request Alpha Access — beznexx.com"
+        "fc-cta": "Request Alpha Access — link in bio"
       }
     },
     "layout": {

@@ -6,10 +6,10 @@
   "layer5_frame_id": "milestone_evidence",
   "layer7_confidence": 0.96,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-09-17T11:25:11.983Z",
-  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_which_evidence_belongs_in_this_conversation_2026_09_14-v1.md",
+  "rendered_at": "2026-09-17T13:44:06.586Z",
+  "source_draft": "campaigns/instagram/approved/2026-09-17-fn_which_evidence_belongs_in_this_conversation_2026_09_14-v1.md",
   "image_file": "instagram/2026/09/fn_which_evidence_belongs_in_this_conversation_2026_09_14/post-07-milestone-evidence-v1.jpg",
-  "checksum_sha256": "3c61b217714287ddd260d40f02ba6fb28393e1400d77e98f3c649899ed192b2b",
+  "checksum_sha256": "f4ab6f5f4918c8fbf41ed9c3c78a3aa23204bddad63e995e7ecde1e3422078c2",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -108,7 +108,7 @@
       "context_secondary": "# Which evidence belongs in this conversation?",
       "cta": {
         "policy": "soft",
-        "label": "Request Alpha Access — beznexx.com"
+        "label": "Request Alpha Access — link in bio"
       },
       "slots": {
         "me-chip": "Evidence",
@@ -117,7 +117,7 @@
         "me-headline": "Which evidence belongs<br>in this conversation<span class=\"dot\">.</span>",
         "me-body": "Recruitment copy about selecting evidence for a specific partner decision, backed by private records, visible contributions, and subsequent learning.",
         "me-conclusion": "BezNexx makes early progress inspectable before the pitch has to explain it.",
-        "me-cta": "Request Alpha Access — beznexx.com"
+        "me-cta": "Request Alpha Access — link in bio"
       }
     },
     "layout": {
