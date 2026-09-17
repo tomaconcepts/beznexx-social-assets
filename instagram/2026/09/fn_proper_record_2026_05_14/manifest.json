@@ -1,25 +1,18 @@
 {
   "campaign_id": "fn_proper_record_2026_05_14",
-  "template_key": "social-ops-insta-03",
-  "html_template": "social-ops-insta-03.html",
-  "renderer": "puppeteer",
-  "rendered_at": "2026-09-17T13:38:05.481Z",
-  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_proper_record_2026_05_14-carousel-test-v1.md",
-  "image_files": [
-    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-1-v1.jpg",
-    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-2-v1.jpg",
-    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-3-v1.jpg",
-    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-4-v1.jpg",
-    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-5-v1.jpg",
-    "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-6-v1.jpg"
-  ],
-  "slide_count": 6,
-  "checksum_sha256": [
-    "d6de63127ada5c676ea58887e407d0feaac88a6309ad3426623d3b76c04428a9",
-    "9bda9cda2f30747f7cc9b7133e080c8c9bd5c39d606f4f6f7f1d22ea9532c16e",
-    "f42a20f62f6eda74bd249b2488ea2ebfc94f239d07ac30de0f8086b1921d6143",
-    "17a6348786ce67ffa7b88ccc13119bb92a9805f45d15d3f77215476e25e60b9a",
-    "dea17e7669b22d93dba5a83c0b49b663e3e670e430b76fa194b4ed5e4d5f3360",
-    "29464ce0b2b6fc98a72709ab2fbddbfa9677a056c16cffaf33e42b7871186f58"
-  ]
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-02-studio-collaboration.html",
+  "layer5_frame_id": "studio_collaboration",
+  "layer7_confidence": null,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-09-17T13:45:10.024Z",
+  "source_draft": "/private/tmp/claude-501/-Users-tomaconcepts-BezNexx-Main/e8ddb674-9b24-4608-9c49-1ecb5dc7c89d/scratchpad/rerender-proper-record-cover-v2.md",
+  "image_file": "instagram/2026/09/fn_proper_record_2026_05_14/post-02-studio-collaboration-v2.jpg",
+  "checksum_sha256": "da3679674e0776fa766331a87258ad7674a9bce26d2e3f173cfedde3f38d5698",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": null
 }
