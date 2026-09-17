@@ -1,0 +1,161 @@
+{
+  "campaign_id": "fn_a_useful_introduction_starts_with_a_clear_ask_2026_09_14",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-08-alpha-launch.html",
+  "layer5_frame_id": "alpha_launch",
+  "layer7_confidence": 0.85,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-09-17T11:11:30.374Z",
+  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_a_useful_introduction_starts_with_a_clear_ask_2026_09_14-v1.md",
+  "image_file": "instagram/2026/09/fn_a_useful_introduction_starts_with_a_clear_ask_2026_09_14/post-08-alpha-launch-v1.jpg",
+  "checksum_sha256": "c87858d0e6b0f27ff3eb4b8cc95af194be55fa736b6edaad815d1d8ca969f23b",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_a_useful_introduction_starts_with_a_clear_ask_2026_09_14_v1_alpha_launch",
+    "created_at": "2026-09-17T11:09:38.214Z",
+    "source": {
+      "craddle_export_id": "fn_a_useful_introduction_starts_with_a_clear_ask_2026_09_14",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "next_conversation_readiness"
+    },
+    "strategy": {
+      "funnel_stage": "conversion",
+      "pain_code": "ISO",
+      "audience_cohort": "the_isolated",
+      "cta_policy": "canonical_alpha",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "alpha_launch",
+      "post_id": "post-08-alpha-launch",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-08-alpha-launch.html",
+      "selection": {
+        "frame_id": "alpha_launch",
+        "production_name": "Alpha Launch",
+        "confidence": 0.85,
+        "score": 85,
+        "reasons": [
+          "preferred format alpha_cta mapped to alpha_launch",
+          "campaign pillar matched show_credible_progress",
+          "feature area matched studio"
+        ],
+        "signals": [
+          "evidence",
+          "contribution"
+        ],
+        "rejected": [
+          {
+            "frame_id": "field_note",
+            "score": 48,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio",
+              "founder note baseline authority fit"
+            ]
+          },
+          {
+            "frame_id": "build_in_public",
+            "score": 40,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio"
+            ]
+          },
+          {
+            "frame_id": "studio_collaboration",
+            "score": 33,
+            "reasons": [
+              "feature area matched studio",
+              "semantic match: contribution",
+              "derived signal match: contribution"
+            ]
+          },
+          {
+            "frame_id": "milestone_evidence",
+            "score": 31,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for studio",
+              "semantic match: evidence"
+            ]
+          }
+        ],
+        "message_flow": [
+          "headline",
+          "body",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "A useful introduction starts with a clear ask",
+      "context": "As BezNexx prepares to recruit its first founder for the current test, a clear ask connects private work, evidence, and contributions to relevant...",
+      "context_secondary": "# A useful introduction starts with a clear ask.",
+      "cta": {
+        "policy": "canonical_alpha",
+        "label": "Request Alpha Access — beznexx.com"
+      },
+      "slots": {
+        "al-chip": "Alpha",
+        "al-diagram-label": "Open &rarr; access",
+        "al-eyebrow": "Now in alpha",
+        "al-headline": "BezNexx alpha<br>is open<span class=\"dot\">.</span>",
+        "al-body": "For early founders who want one trusted structure for turning scattered work into credible progress.",
+        "al-conclusion": "Bring one live project into the BezNexx alpha and build the record while the work is still moving.",
+        "al-cta": "Request Alpha Access — beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "xl",
+      "headline_lines": 3,
+      "text_fit": {
+        "quote": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "alpha-launch",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/00-shared/assets/captures/cap-dashboard-trust-record.png",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "trustrank_meter",
+      "label": "Alpha"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
