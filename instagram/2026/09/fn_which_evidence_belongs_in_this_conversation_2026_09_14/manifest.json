@@ -1,0 +1,170 @@
+{
+  "campaign_id": "fn_which_evidence_belongs_in_this_conversation_2026_09_14",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-07-milestone-evidence.html",
+  "layer5_frame_id": "milestone_evidence",
+  "layer7_confidence": 0.96,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-09-17T11:25:11.983Z",
+  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_which_evidence_belongs_in_this_conversation_2026_09_14-v1.md",
+  "image_file": "instagram/2026/09/fn_which_evidence_belongs_in_this_conversation_2026_09_14/post-07-milestone-evidence-v1.jpg",
+  "checksum_sha256": "3c61b217714287ddd260d40f02ba6fb28393e1400d77e98f3c649899ed192b2b",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_which_evidence_belongs_in_this_conversation_2026_09_14_v1_milestone_evidence",
+    "created_at": "2026-09-17T11:09:38.511Z",
+    "source": {
+      "craddle_export_id": "fn_which_evidence_belongs_in_this_conversation_2026_09_14",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "next_conversation_readiness"
+    },
+    "strategy": {
+      "funnel_stage": "explanation",
+      "pain_code": "VAL",
+      "audience_cohort": "the_forgotten",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "milestone_evidence",
+      "post_id": "post-07-milestone-evidence",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-07-milestone-evidence.html",
+      "selection": {
+        "frame_id": "milestone_evidence",
+        "production_name": "Milestone Evidence / Proof",
+        "confidence": 0.96,
+        "score": 96,
+        "reasons": [
+          "preferred format before_after mapped to milestone_evidence",
+          "campaign pillar matched show_credible_progress",
+          "feature area mismatch for studio",
+          "pain code matched VAL",
+          "semantic match: evidence, claim",
+          "derived signal match: evidence"
+        ],
+        "signals": [
+          "fragmentation",
+          "evidence",
+          "contribution",
+          "change_sequence"
+        ],
+        "rejected": [
+          {
+            "frame_id": "build_in_public",
+            "score": 68,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "field_note",
+            "score": 58,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "alpha_launch",
+            "score": 50,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "founder_chaos",
+            "score": 41,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for studio",
+              "pain code matched VAL"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "body",
+          "proof_line",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "Which evidence belongs in this conversation",
+      "context": "Recruitment copy about selecting evidence for a specific partner decision, backed by private records, visible contributions, and subsequent learning.",
+      "context_secondary": "# Which evidence belongs in this conversation?",
+      "cta": {
+        "policy": "soft",
+        "label": "Request Alpha Access — beznexx.com"
+      },
+      "slots": {
+        "me-chip": "Evidence",
+        "me-diagram-label": "Claim &rarr; evidence",
+        "me-eyebrow": "Verified progress",
+        "me-headline": "Which evidence belongs<br>in this conversation<span class=\"dot\">.</span>",
+        "me-body": "Recruitment copy about selecting evidence for a specific partner decision, backed by private records, visible contributions, and subsequent learning.",
+        "me-conclusion": "BezNexx makes early progress inspectable before the pitch has to explain it.",
+        "me-cta": "Request Alpha Access — beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "xl",
+      "headline_lines": 3,
+      "text_fit": {
+        "quote": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "milestone-evidence",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/milestone-evidence.webp",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "trustrank_meter",
+      "label": "Proof"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
