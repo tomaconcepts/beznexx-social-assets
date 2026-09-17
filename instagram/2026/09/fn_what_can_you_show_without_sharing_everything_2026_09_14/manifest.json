@@ -1,0 +1,167 @@
+{
+  "campaign_id": "fn_what_can_you_show_without_sharing_everything_2026_09_14",
+  "template_key": "social-ops-insta-01",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-01-vault-proof.html",
+  "layer5_frame_id": "vault_proof",
+  "layer7_confidence": 0.99,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-09-17T11:23:41.678Z",
+  "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_what_can_you_show_without_sharing_everything_2026_09_14-v1.md",
+  "image_file": "instagram/2026/09/fn_what_can_you_show_without_sharing_everything_2026_09_14/post-01-vault-proof-v1.jpg",
+  "checksum_sha256": "9afbae7995d790ce17605afc75099043a1fdcdc220993a4ba1c0c9aeee4ef301",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_what_can_you_show_without_sharing_everything_2026_09_14_v1_vault_proof",
+    "created_at": "2026-09-17T11:09:38.393Z",
+    "source": {
+      "craddle_export_id": "fn_what_can_you_show_without_sharing_everything_2026_09_14",
+      "campaign_pillar": "protect_the_idea",
+      "gtm_theme": "next_conversation_readiness"
+    },
+    "strategy": {
+      "funnel_stage": "trust",
+      "pain_code": "IP",
+      "audience_cohort": "the_frozen",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "vault_proof",
+      "post_id": "post-01-vault-proof",
+      "variant": "standard",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/post-01-vault-proof.html",
+      "selection": {
+        "frame_id": "vault_proof",
+        "production_name": "Vault Proof",
+        "confidence": 0.99,
+        "score": 113,
+        "reasons": [
+          "preferred format pain_hook mapped to vault_proof",
+          "campaign pillar matched protect_the_idea",
+          "feature area matched vault",
+          "pain code matched IP",
+          "semantic match: vault",
+          "derived signal match: protection"
+        ],
+        "signals": [
+          "evidence",
+          "contribution",
+          "protection"
+        ],
+        "rejected": [
+          {
+            "frame_id": "field_note",
+            "score": 58,
+            "reasons": [
+              "campaign pillar matched protect_the_idea",
+              "feature area matched vault",
+              "pain code matched IP"
+            ]
+          },
+          {
+            "frame_id": "studio_collaboration",
+            "score": 6,
+            "reasons": [
+              "feature area mismatch for vault",
+              "semantic match: contribution",
+              "derived signal match: contribution"
+            ]
+          },
+          {
+            "frame_id": "milestone_evidence",
+            "score": 6,
+            "reasons": [
+              "feature area mismatch for vault",
+              "semantic match: evidence",
+              "derived signal match: evidence"
+            ]
+          },
+          {
+            "frame_id": "exchange_signals",
+            "score": -12,
+            "reasons": [
+              "feature area mismatch for vault"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "body",
+          "conclusion",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "What can you show without sharing everything",
+      "context": "A guided alpha invitation focused on choosing what a partner needs to see while keeping the wider work, evidence, and contributions connected...",
+      "context_secondary": "# What can you show without sharing everything?",
+      "cta": {
+        "policy": "soft",
+        "label": "Request Alpha Access — beznexx.com"
+      },
+      "slots": {
+        "vp-chip": "Protection",
+        "vp-diagram-label": "Shared &rarr; traceable",
+        "vp-eyebrow": "Share earlier, with a record",
+        "vp-headline": "What can you show<br>without sharing everything<span class=\"dot\">.</span>",
+        "vp-body": "A guided alpha invitation focused on choosing what a partner needs to see while keeping the wider work, evidence, and contributions connected...",
+        "vp-conclusion": "Share the work earlier. Let BezNexx keep the trace.",
+        "vp-cta": "Request Alpha Access — beznexx.com"
+      }
+    },
+    "layout": {
+      "font_tier": "xl",
+      "headline_lines": 3,
+      "text_fit": {
+        "quote": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "vault-proof",
+      "src": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/photos/vault-proof.webp",
+      "treatment": "duo",
+      "status": "resolved"
+    },
+    "diagram": {
+      "id": "vault_timestamp",
+      "label": "Vault"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
