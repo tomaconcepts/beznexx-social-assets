@@ -3,7 +3,7 @@
   "template_key": "social-ops-insta-03",
   "html_template": "social-ops-insta-03.html",
   "renderer": "puppeteer",
-  "rendered_at": "2026-09-17T12:09:04.397Z",
+  "rendered_at": "2026-09-17T12:12:01.066Z",
   "source_draft": "campaigns/instagram/drafts/2026-09-17-fn_proper_record_2026_05_14-carousel-test-v1.md",
   "image_files": [
     "instagram/2026/09/fn_proper_record_2026_05_14/social-ops-insta-03-slide-1-v1.jpg",
@@ -20,6 +20,6 @@
     "f42a20f62f6eda74bd249b2488ea2ebfc94f239d07ac30de0f8086b1921d6143",
     "17a6348786ce67ffa7b88ccc13119bb92a9805f45d15d3f77215476e25e60b9a",
     "dea17e7669b22d93dba5a83c0b49b663e3e670e430b76fa194b4ed5e4d5f3360",
-    "5fd5a09a935c5fb56e4f4e3bab2777240c31096f032f86517aaa98db557ea34c"
+    "95d104b3003244d483e49bc4c88c83ad75c76feb1d84c36805096a29209cf478"
   ]
 }
