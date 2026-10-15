@@ -6,10 +6,10 @@
   "layer5_frame_id": "milestone_evidence",
   "layer7_confidence": 0.99,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-15T22:03:45.879Z",
+  "rendered_at": "2026-10-15T22:18:31.041Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-15-fn_prototype_evidence_next_conversation_2026_10_07-v1.md",
   "image_file": "instagram/2026/10/fn_prototype_evidence_next_conversation_2026_10_07/post-07-milestone-evidence-v1.jpg",
-  "checksum_sha256": "b4e023bf920af961bca128ee7038430e8419e6f77a36e8e6a581c6e84ccc2c7d",
+  "checksum_sha256": "26159aedc4e18b6b1754cfa2181b319bdfaec8a64e7ad36b8123116294d3fce6",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -17,7 +17,7 @@
   "render_instruction": {
     "schema_version": "1.0",
     "instruction_id": "ri_fn_prototype_evidence_next_conversation_2026_10_07_v1_milestone_evidence",
-    "created_at": "2026-10-15T22:03:31.224Z",
+    "created_at": "2026-10-15T22:18:16.092Z",
     "source": {
       "craddle_export_id": "fn_prototype_evidence_next_conversation_2026_10_07",
       "campaign_pillar": "show_credible_progress",
@@ -113,7 +113,7 @@
         "me-chip": "Evidence",
         "me-diagram-label": "Claim &rarr; evidence",
         "me-eyebrow": "Verified progress",
-        "me-headline": "Your prototype works. What can<br>you show a manufacturer<span class=\"dot\">.</span>",
+        "me-headline": "Your prototype works. What can<br>you show a manufacturer<span class=\"dot\">?</span>",
         "me-body": "Keep test conditions, decisions and open questions beside the results.",
         "me-conclusion": "BezNexx makes early progress inspectable before the pitch has to explain it.",
         "me-cta": "Request Alpha Access — link in bio"
