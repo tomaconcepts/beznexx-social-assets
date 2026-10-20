@@ -1,0 +1,170 @@
+{
+  "campaign_id": "fn_your_evidence_has_a_reader_2026_10_20",
+  "template_key": "social-ops-insta-02",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/frame-07-field-note.html",
+  "layer5_frame_id": "field_note",
+  "layer7_confidence": 0.99,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-10-20T12:17:31.849Z",
+  "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_your_evidence_has_a_reader_2026_10_20-v1.md",
+  "image_file": "instagram/2026/10/fn_your_evidence_has_a_reader_2026_10_20/frame-07-field-note-v1.jpg",
+  "checksum_sha256": "8196491f37a62daf59255695971e71473f39d02d50c05a68490c4e8ac43c1cf9",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_your_evidence_has_a_reader_2026_10_20_v1_field_note",
+    "created_at": "2026-10-20T12:15:49.484Z",
+    "source": {
+      "craddle_export_id": "fn_your_evidence_has_a_reader_2026_10_20",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "alpha_experiment_learning"
+    },
+    "strategy": {
+      "funnel_stage": "trust",
+      "pain_code": "VAL",
+      "audience_cohort": "the_forgotten",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "field_note",
+      "post_id": "post-10-founder-portrait",
+      "variant": "quote",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/frame-07-field-note.html",
+      "selection": {
+        "frame_id": "field_note",
+        "production_name": "Founder Field Note",
+        "confidence": 0.99,
+        "score": 103,
+        "reasons": [
+          "preferred format field_note mapped to field_note",
+          "campaign pillar matched show_credible_progress",
+          "feature area matched studio",
+          "pain code matched VAL",
+          "founder note baseline authority fit"
+        ],
+        "signals": [
+          "evidence"
+        ],
+        "rejected": [
+          {
+            "frame_id": "milestone_evidence",
+            "score": 51,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for studio",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "build_in_public",
+            "score": 50,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "alpha_launch",
+            "score": 50,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "exchange_signals",
+            "score": 23,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for studio",
+              "pain code matched VAL"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "observation",
+          "implication",
+          "belief",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "Your evidence has a reader",
+      "context": "The next alpha experiment asks whether a recipient can use a founder-reviewed brief to understand the evidence, contribute, and decide what happens...",
+      "context_secondary": "# Your evidence has a reader.",
+      "cta": {
+        "policy": "soft",
+        "label": "Request Alpha Access — beznexx.com"
+      },
+      "slots": {
+        "t-chip": "Trust · Field Note",
+        "t-eyebrow": "Studio · Founder Note",
+        "t-head": "Your evidence has a reader.",
+        "t-obs": "The next alpha experiment asks whether a recipient can use a founder-reviewed brief to understand the evidence, contribute, and decide what happens...",
+        "t-imp": "# Your evidence has a reader.",
+        "t-bel": "BezNexx keeps one record moving with the work.",
+        "t-name": "BezNexx founder note",
+        "t-role": "Studio / show credible progress",
+        "t-cta": "Request Alpha Access — beznexx.com",
+        "avatar_initials": "BN"
+      }
+    },
+    "layout": {
+      "font_tier": "xl",
+      "headline_lines": 2,
+      "text_fit": {
+        "quote": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 5,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "field-note",
+      "src": null,
+      "treatment": "none",
+      "status": "fallback"
+    },
+    "diagram": {
+      "id": "signal_tower",
+      "label": "Signal"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}

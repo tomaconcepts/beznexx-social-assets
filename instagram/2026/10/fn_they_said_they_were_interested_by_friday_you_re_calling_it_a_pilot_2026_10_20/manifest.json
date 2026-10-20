@@ -1,0 +1,170 @@
+{
+  "campaign_id": "fn_they_said_they_were_interested_by_friday_you_re_calling_it_a_pilot_2026_10_20",
+  "template_key": "social-ops-insta-02",
+  "layer": 5,
+  "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/frame-07-field-note.html",
+  "layer5_frame_id": "field_note",
+  "layer7_confidence": 0.99,
+  "renderer": "puppeteer-layer5",
+  "rendered_at": "2026-10-20T12:17:25.179Z",
+  "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_they_said_they_were_interested_by_friday_you_re_calling_it_a_pilot_2026_10_20-v1.md",
+  "image_file": "instagram/2026/10/fn_they_said_they_were_interested_by_friday_you_re_calling_it_a_pilot_2026_10_20/frame-07-field-note-v1.jpg",
+  "checksum_sha256": "6659cd59db54c928793fd001954631a338d72498668690b1d86d30ea1a3723c8",
+  "dimensions": {
+    "width": 1080,
+    "height": 1350
+  },
+  "render_instruction": {
+    "schema_version": "1.0",
+    "instruction_id": "ri_fn_they_said_they_were_interested_by_friday_you_re_calling_it_a_pilot_2026_10_20_v1_field_note",
+    "created_at": "2026-10-20T12:17:09.008Z",
+    "source": {
+      "craddle_export_id": "fn_they_said_they_were_interested_by_friday_you_re_calling_it_a_pilot_2026_10_20",
+      "campaign_pillar": "show_credible_progress",
+      "gtm_theme": "studio_blocks_in_practice"
+    },
+    "strategy": {
+      "funnel_stage": "explanation",
+      "pain_code": "VAL",
+      "audience_cohort": "the_forgotten",
+      "cta_policy": "soft",
+      "primary_channel": "instagram"
+    },
+    "template": {
+      "format_family": "field_note",
+      "post_id": "post-10-founder-portrait",
+      "variant": "quote",
+      "layer5_frame": "design_handoff_social_diagram_kit/social-diagram-kit/05-social-post-frames/frame-07-field-note.html",
+      "selection": {
+        "frame_id": "field_note",
+        "production_name": "Founder Field Note",
+        "confidence": 0.99,
+        "score": 103,
+        "reasons": [
+          "preferred format field_note mapped to field_note",
+          "campaign pillar matched show_credible_progress",
+          "feature area matched studio",
+          "pain code matched VAL",
+          "founder note baseline authority fit"
+        ],
+        "signals": [
+          "evidence"
+        ],
+        "rejected": [
+          {
+            "frame_id": "build_in_public",
+            "score": 50,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "alpha_launch",
+            "score": 50,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area matched studio",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "milestone_evidence",
+            "score": 41,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for studio",
+              "pain code matched VAL"
+            ]
+          },
+          {
+            "frame_id": "exchange_signals",
+            "score": 33,
+            "reasons": [
+              "campaign pillar matched show_credible_progress",
+              "feature area mismatch for studio",
+              "pain code matched VAL"
+            ]
+          }
+        ],
+        "message_flow": [
+          "chip",
+          "eyebrow",
+          "headline",
+          "observation",
+          "implication",
+          "belief",
+          "cta"
+        ]
+      }
+    },
+    "copy": {
+      "quote": "They said they were interested. By Friday, you're calling it a pilot",
+      "context": "Observation, Analysis, and Decision blocks help preserve the difference between a positive response and an agreed next step.",
+      "context_secondary": "# They said they were interested.",
+      "cta": {
+        "policy": "soft",
+        "label": "Request Alpha Access — beznexx.com"
+      },
+      "slots": {
+        "t-chip": "Explanation · Field Note",
+        "t-eyebrow": "Studio · Founder Note",
+        "t-head": "They said they were interested. By Friday, you're calling it a pilot.",
+        "t-obs": "Observation, Analysis, and Decision blocks help preserve the difference between a positive response and an agreed next step.",
+        "t-imp": "# They said they were interested.",
+        "t-bel": "BezNexx keeps one record moving with the work.",
+        "t-name": "BezNexx founder note",
+        "t-role": "Studio / show credible progress",
+        "t-cta": "Request Alpha Access — beznexx.com",
+        "avatar_initials": "BN"
+      }
+    },
+    "layout": {
+      "font_tier": "lg",
+      "headline_lines": 4,
+      "text_fit": {
+        "quote": {
+          "font_tier": "lg",
+          "max_lines": 3,
+          "line_count": 2,
+          "overflow_action": "pass"
+        },
+        "context": {
+          "font_tier": "sm",
+          "max_lines": 5,
+          "line_count": 4,
+          "overflow_action": "pass"
+        },
+        "context_secondary": {
+          "font_tier": "xl",
+          "max_lines": 3,
+          "line_count": 1,
+          "overflow_action": "pass"
+        }
+      }
+    },
+    "photo": {
+      "category": "field-note",
+      "src": null,
+      "treatment": "none",
+      "status": "fallback"
+    },
+    "diagram": {
+      "id": "signal_tower",
+      "label": "Signal"
+    },
+    "channels": [
+      {
+        "surface": "instagram-feed",
+        "ratio": "4x5",
+        "w": 1080,
+        "h": 1350
+      }
+    ],
+    "validation": {
+      "status": "pass",
+      "reasons": []
+    }
+  }
+}
