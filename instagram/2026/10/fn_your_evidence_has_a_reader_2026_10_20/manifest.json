@@ -6,10 +6,10 @@
   "layer5_frame_id": "field_note",
   "layer7_confidence": 0.99,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:31.849Z",
+  "rendered_at": "2026-10-20T12:21:42.831Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_your_evidence_has_a_reader_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_your_evidence_has_a_reader_2026_10_20/frame-07-field-note-v1.jpg",
-  "checksum_sha256": "8196491f37a62daf59255695971e71473f39d02d50c05a68490c4e8ac43c1cf9",
+  "checksum_sha256": "c135bab1712f528b8d7938eb2392ae240800becefae8bacee18ef3465c7fe15e",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -111,8 +111,8 @@
         "t-chip": "Trust · Field Note",
         "t-eyebrow": "Studio · Founder Note",
         "t-head": "Your evidence has a reader.",
-        "t-obs": "The next alpha experiment asks whether a recipient can use a founder-reviewed brief to understand the evidence, contribute, and decide what happens...",
-        "t-imp": "# Your evidence has a reader.",
+        "t-obs": "Can a recipient use a founder-reviewed brief to understand the evidence and decide what happens next?",
+        "t-imp": "Different readers have different decisions to make.",
         "t-bel": "BezNexx keeps one record moving with the work.",
         "t-name": "BezNexx founder note",
         "t-role": "Studio / show credible progress",

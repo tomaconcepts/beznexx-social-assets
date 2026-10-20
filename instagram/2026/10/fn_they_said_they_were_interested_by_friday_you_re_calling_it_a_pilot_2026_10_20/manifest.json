@@ -6,10 +6,10 @@
   "layer5_frame_id": "field_note",
   "layer7_confidence": 0.99,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:25.179Z",
+  "rendered_at": "2026-10-20T12:21:37.194Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_they_said_they_were_interested_by_friday_you_re_calling_it_a_pilot_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_they_said_they_were_interested_by_friday_you_re_calling_it_a_pilot_2026_10_20/frame-07-field-note-v1.jpg",
-  "checksum_sha256": "6659cd59db54c928793fd001954631a338d72498668690b1d86d30ea1a3723c8",
+  "checksum_sha256": "b18d9074f2ad93f3c154a8bcc9d375f1aa08535b6af683893091e18b7fd375c4",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -112,7 +112,7 @@
         "t-eyebrow": "Studio · Founder Note",
         "t-head": "They said they were interested. By Friday, you're calling it a pilot.",
         "t-obs": "Observation, Analysis, and Decision blocks help preserve the difference between a positive response and an agreed next step.",
-        "t-imp": "# They said they were interested.",
+        "t-imp": "Keep the response separate from your interpretation and the agreed next step.",
         "t-bel": "BezNexx keeps one record moving with the work.",
         "t-name": "BezNexx founder note",
         "t-role": "Studio / show credible progress",

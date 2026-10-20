@@ -6,10 +6,10 @@
   "layer5_frame_id": "field_note",
   "layer7_confidence": 0.99,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:30.260Z",
+  "rendered_at": "2026-10-20T12:21:40.597Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_you_did_the_work_now_you_have_to_spend_the_weekend_proving_you_did_the_work_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_you_did_the_work_now_you_have_to_spend_the_weekend_proving_you_did_the_work_2026_10_20/frame-07-field-note-v1.jpg",
-  "checksum_sha256": "425f65a1b0d2e4bff90666f62d81359a3f918928d67ac83be8f29536d85e83f4",
+  "checksum_sha256": "16b262f25a0176cb7e1e27c178459a073e48e093f26bfcd152cdc98676392093",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -111,9 +111,9 @@
       "slots": {
         "t-chip": "Explanation · Field Note",
         "t-eyebrow": "Studio · Founder Note",
-        "t-head": "You did the work. Now you have to spend the weekend proving you did the work.",
-        "t-obs": "A looming progress update exposes the cost of reconstructing scattered work. A concrete Studio example shows how Evidence, Insight, and Decision...",
-        "t-imp": "# You did the work.",
+        "t-head": "You did the work. Now you have to prove it.",
+        "t-obs": "A looming progress update exposes the cost of reconstructing scattered work.",
+        "t-imp": "Keep the evidence, insight, and decision connected as the work happens.",
         "t-bel": "BezNexx keeps one record moving with the work.",
         "t-name": "BezNexx founder note",
         "t-role": "Studio / show credible progress",

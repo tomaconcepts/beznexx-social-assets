@@ -6,10 +6,10 @@
   "layer5_frame_id": "milestone_evidence",
   "layer7_confidence": 0.86,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:22.663Z",
+  "rendered_at": "2026-10-20T12:21:33.074Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_a_useful_no_should_change_the_next_step_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_a_useful_no_should_change_the_next_step_2026_10_20/post-07-milestone-evidence-v1.jpg",
-  "checksum_sha256": "9c8eb4efb5f735fcc63c273e6d45cb54427fe6e619baa9a839bd0637e3b08b5f",
+  "checksum_sha256": "ec7433f188240a1ba24703aeb1733b020eafbf0c160c5b7123de5634c2cfbd43",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -111,7 +111,7 @@
       "slots": {
         "me-chip": "Evidence",
         "me-diagram-label": "Claim &rarr; evidence",
-        "me-eyebrow": "Verified progress",
+        "me-eyebrow": "Credible progress",
         "me-headline": "A useful 'no' should<br>change the next step<span class=\"dot\">.</span>",
         "me-body": "Specific feedback can inform the next test or decision when its context, source, and resulting changes remain connected to the work.",
         "me-conclusion": "BezNexx makes early progress inspectable before the pitch has to explain it.",

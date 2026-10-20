@@ -6,10 +6,10 @@
   "layer5_frame_id": "field_note",
   "layer7_confidence": 0.99,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:19.997Z",
+  "rendered_at": "2026-10-20T12:21:31.710Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_a_claim_gets_stronger_when_its_limits_are_visible_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_a_claim_gets_stronger_when_its_limits_are_visible_2026_10_20/frame-07-field-note-v1.jpg",
-  "checksum_sha256": "2e2406f4ecee49f2fd3d0d4b197fca3fe061b222710e6018457951fe262d6738",
+  "checksum_sha256": "b40801b03706c1e8809a3a507c48238f98df02e0267a546a2f259f1dda866a98",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -112,7 +112,7 @@
         "t-eyebrow": "Studio · Founder Note",
         "t-head": "A claim gets stronger when its limits are visible.",
         "t-obs": "Pairing claims with sources and limits connects honest evidence to purposeful sharing, specialist input, and the next stage of recorded progress.",
-        "t-imp": "# A claim gets stronger when its limits are visible.",
+        "t-imp": "State what the evidence supports—and what remains untested.",
         "t-bel": "BezNexx keeps one record moving with the work.",
         "t-name": "BezNexx founder note",
         "t-role": "Studio / show credible progress",

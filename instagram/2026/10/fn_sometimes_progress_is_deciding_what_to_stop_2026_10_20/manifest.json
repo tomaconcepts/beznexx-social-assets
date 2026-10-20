@@ -6,10 +6,10 @@
   "layer5_frame_id": "milestone_evidence",
   "layer7_confidence": 0.86,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:24.286Z",
+  "rendered_at": "2026-10-20T12:21:35.829Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_sometimes_progress_is_deciding_what_to_stop_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_sometimes_progress_is_deciding_what_to_stop_2026_10_20/post-07-milestone-evidence-v1.jpg",
-  "checksum_sha256": "99ccb7259586319788356e61b7f2634f02482dd59bd2c2081b532dd40e519b76",
+  "checksum_sha256": "c2968f4c4435c0fb1acba2e0732839951f8b005f99a7cf0c3dd0b834bfe887ce",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -111,9 +111,9 @@
       "slots": {
         "me-chip": "Evidence",
         "me-diagram-label": "Claim &rarr; evidence",
-        "me-eyebrow": "Verified progress",
+        "me-eyebrow": "Credible progress",
         "me-headline": "Sometimes progress is deciding<br>what to stop<span class=\"dot\">.</span>",
-        "me-body": "An evolving evidence record can support a deliberate decision to continue, pause, or change an approach while preserving useful work and...",
+        "me-body": "Preserve the evidence, reasoning, and contributions behind a decision to continue, pause, or change direction.",
         "me-conclusion": "BezNexx makes early progress inspectable before the pitch has to explain it.",
         "me-cta": "Request Alpha Access — beznexx.com"
       }

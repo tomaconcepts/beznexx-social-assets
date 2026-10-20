@@ -6,10 +6,10 @@
   "layer5_frame_id": "field_note",
   "layer7_confidence": 0.76,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:23.527Z",
+  "rendered_at": "2026-10-20T12:21:34.729Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_innovation_moves_between_tools_its_story_should_stay_connected_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_innovation_moves_between_tools_its_story_should_stay_connected_2026_10_20/frame-07-field-note-v1.jpg",
-  "checksum_sha256": "4945a6267f382e3ef3812175498ce05e1961cd1ab38e91077923232e82706e29",
+  "checksum_sha256": "30a3bc789b4e7992ad0b2e0fc3f916c7ccbd6f602fb5846ced1427dc48a7e4ae",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -115,7 +115,7 @@
         "t-eyebrow": "Studio · Founder Note",
         "t-head": "Innovation moves between tools. Its story should stay connected.",
         "t-obs": "A founder reflection on preserving the context, evidence, contributions and opportunities behind innovation as it moves between tools.",
-        "t-imp": "# Innovation moves between tools.",
+        "t-imp": "The next step often depends on understanding what came before.",
         "t-bel": "BezNexx keeps one record moving with the work.",
         "t-name": "BezNexx founder note",
         "t-role": "Studio / show credible progress",

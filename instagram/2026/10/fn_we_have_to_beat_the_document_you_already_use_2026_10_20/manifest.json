@@ -6,10 +6,10 @@
   "layer5_frame_id": "field_note",
   "layer7_confidence": 0.99,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:25.907Z",
+  "rendered_at": "2026-10-20T12:21:38.343Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_we_have_to_beat_the_document_you_already_use_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_we_have_to_beat_the_document_you_already_use_2026_10_20/frame-07-field-note-v1.jpg",
-  "checksum_sha256": "85ccd050fc0d78149be52c8e684ed456e0fd10742f5c5dd0eccacbd666292ca6",
+  "checksum_sha256": "0f483e4925b3e6101768d81fe213de1eba4938573ac4ec3e36c87137bf8c10a6",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -114,8 +114,8 @@
         "t-chip": "Trust · Field Note",
         "t-eyebrow": "Studio · Founder Note",
         "t-head": "We have to beat the document you already use.",
-        "t-obs": "BezNexx must earn repeat use alongside existing tools by connecting private work, evidence, contributions, partner conversations, and subsequent...",
-        "t-imp": "# We have to beat the document you already use.",
+        "t-obs": "BezNexx must earn repeat use by connecting private work, evidence, contributions, and partner conversations.",
+        "t-imp": "A completed brief alone does not tell us whether a founder will return.",
         "t-bel": "BezNexx keeps one record moving with the work.",
         "t-name": "BezNexx founder note",
         "t-role": "Studio / show credible progress",

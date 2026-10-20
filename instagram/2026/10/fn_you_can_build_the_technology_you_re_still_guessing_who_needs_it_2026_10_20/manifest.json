@@ -6,10 +6,10 @@
   "layer5_frame_id": "field_note",
   "layer7_confidence": 0.99,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:28.922Z",
+  "rendered_at": "2026-10-20T12:21:39.437Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_you_can_build_the_technology_you_re_still_guessing_who_needs_it_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_you_can_build_the_technology_you_re_still_guessing_who_needs_it_2026_10_20/frame-07-field-note-v1.jpg",
-  "checksum_sha256": "a021fa2d45a81f1d5f9dd30ad81aa31063367f8d0afe3cc1933d991b2e4c5c1e",
+  "checksum_sha256": "4181137cbb9ae65ea2ff308bebaded3e1daff135ac26765727e204a9f1af37e6",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -112,8 +112,8 @@
         "t-chip": "Explanation · Field Note",
         "t-eyebrow": "Studio · Founder Note",
         "t-head": "You can build the technology. You're still guessing who needs it.",
-        "t-obs": "Observation, Reference, Analysis, and Insight blocks keep problem discovery grounded in specific accounts before a founder commits to a build...",
-        "t-imp": "# You can build the technology.",
+        "t-obs": "Keep problem discovery grounded in specific accounts before committing to a build.",
+        "t-imp": "Connect what people said to the evidence and the decision that follows.",
         "t-bel": "BezNexx keeps one record moving with the work.",
         "t-name": "BezNexx founder note",
         "t-role": "Studio / show credible progress",

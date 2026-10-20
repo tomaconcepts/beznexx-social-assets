@@ -6,10 +6,10 @@
   "layer5_frame_id": "field_note",
   "layer7_confidence": 0.93,
   "renderer": "puppeteer-layer5",
-  "rendered_at": "2026-10-20T12:17:31.033Z",
+  "rendered_at": "2026-10-20T12:21:41.689Z",
   "source_draft": "campaigns/instagram/drafts/2026-10-20-fn_you_ve_explained_the_idea_three_times_the_engineer_still_can_t_tell_what_you_need_built_2026_10_20-v1.md",
   "image_file": "instagram/2026/10/fn_you_ve_explained_the_idea_three_times_the_engineer_still_can_t_tell_what_you_need_built_2026_10_20/frame-07-field-note-v1.jpg",
-  "checksum_sha256": "dcfc490611c6d1fc13db2bb74a7056608498cb1fbae6acb3e98ceb8ba2ab2a10",
+  "checksum_sha256": "c1a6ebd49dff9371905a42dc0f708bb64dabbf6f9580ee4c73990f584057df0a",
   "dimensions": {
     "width": 1080,
     "height": 1350
@@ -108,9 +108,9 @@
       "slots": {
         "t-chip": "Explanation · Field Note",
         "t-eyebrow": "Studio · Founder Note",
-        "t-head": "You've explained the idea three times. The engineer still can't tell what you need built.",
+        "t-head": "Three explanations. Still no clear build request.",
         "t-obs": "Reference, Observation, and Decision blocks help turn scattered concept material into a specific request a technical contributor can assess.",
-        "t-imp": "# You've explained the idea three times.",
+        "t-imp": "Turn scattered concept material into a specific request a technical contributor can assess.",
         "t-bel": "BezNexx keeps one record moving with the work.",
         "t-name": "BezNexx founder note",
         "t-role": "Studio / show credible progress",
